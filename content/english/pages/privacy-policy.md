@@ -10,10 +10,6 @@ draft: false
 
 A www.bnpi.hu weboldalt működtető Bükki Nemzeti Park Igazgatóság („BNPI”) kiemelten fontos kérdésként kezeli a honlap használatából származó személyes adatok biztonságát. Személyes adatainak védelmére fokozott hangsúlyt fektetünk. A jelen adatvédelmi nyilatkozatban rögzítjük az ilyen adatok kezelésére vonatkozó tudnivalókat. Tájékoztatjuk, hogy személyes adatainak kezeléséhez önkéntesen megadhatja a BNPI számára a hozzájárulását.
 
-#### Adatvédelem
-
-A www.bnpi.hu weboldalt működtető Bükki Nemzeti Park Igazgatóság („BNPI”) kiemelten fontos kérdésként kezeli a honlap használatából származó személyes adatok biztonságát. Személyes adatainak védelmére fokozott hangsúlyt fektetünk. A jelen adatvédelmi nyilatkozatban rögzítjük az ilyen adatok kezelésére vonatkozó tudnivalókat. Tájékoztatjuk, hogy személyes adatainak kezeléséhez önkéntesen megadhatja a BNPI számára a hozzájárulását.
-
 #### Adatok gyűjtése
 
 Honlapunkat személyes adatai felfedése nélkül is használhatja. Honlapunk használatának nem feltétele személyes adatainak megadása, kivéve, ha ez szükséges ahhoz, hogy saját kérésére további információt tudjunk biztosítani Önnek. Amikor honlapunkat használja, szervereinken különböző biztonsági okokból adatokat tárolunk. Ilyen adat lehet az Ön internet-szolgáltatójának neve, a honlap neve, ahonnan a mi oldalunkra jutott, a honlapok, amelyeket a mi oldalunkról meglátogat, és az Ön IP-címe. Ezek az adatok esetleg az Ön azonosítására is alkalmasak lehetnek, de azokat nem használjuk fel ilyen célokra. Időről időre statisztikai céllal felhasználjuk az adatokat, de minden egyes felhasználó névtelenségét megtartjuk, így a személy nem azonosítható. Abban az esetben, ha személyes adatait a BNPI-n belül mások rendelkezésére bocsátjuk, hogy megkaphassa a kért információkat, technikai és szervezeti eszközökkel biztosítjuk a megfelelő adatvédelmi előírások betartását.
