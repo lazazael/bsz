@@ -11,7 +11,7 @@ draft: false
 
 {{< accordion "Bükki Csillagda" >}}
 
-A szálláshelytől csupán 5 kilométerre található a A Bükki Nemzeti Park csillagvizsgálója és látogatóközpontja mely rengeteg élménnyel várja vendégeit.
+A szálláshelyektől csupán néhány kilométerre található a A Bükki Nemzeti Park csillagvizsgálója és látogatóközpontja mely rengeteg élménnyel várja vendégeit.
 
 - Kiállítás
 - Obszervatórium
