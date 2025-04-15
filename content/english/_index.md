@@ -4,10 +4,12 @@ banner:
   title: "Köszöntjük a Bükkiszállások honlapján!"
   content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez."
   image: "/images/banner.png"
+  draft: false
   button:
     enable: false
     label: "Foglaljon most"
     link: "https://hardverapro.hu/index.html"
+
 
 # Features
 features:
@@ -23,20 +25,20 @@ features:
       - "Kutyabarát szállás"
       - "Szauna"
     button:
-      enable: false
+      enable: true
       label: "Foglaljon most"
       link: "https://hardverapro.hu/index.html"
 
   - title: "Borostyán Vendégház, erdei szállás a Bükk szívében - ahol a romantika és a természet összefonódik"
     image: "/images/service-2.png"
-    content: "Létezik egy erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez. Üdvözlünk a Borostyán vendégházban, Répáshuta csodálatos környezetében, ahol a Bükk-hegység páratlan szépsége és a vendégszeretet harmóniája felejthetetlen élményt nyújt."
+    content: "Képzelj el egy vendégházat a fák ölelésében, a béke birodalmát. Itt a hajnalokat a szárnyasok vidám kórusa köszönti, az alkonyat utáni meghitt órákhoz pedig a tündöklő égbolt adja a legszebb hátteret, felejthetetlen, bensőséges pillanatokat szerezve. A Borostyán vendégházban, Répáshuta csodálatos környezetében, ahol a Bükk-hegység páratlan szépsége és a vendégszeretet harmóniája felejthetetlen élményt nyújt."
     bulletpoints:
       - "Közösségi tér"
       - "Játszótér"
-      - "Szalonnasütő "
+      - "Szalonnasütő"
       - "Céges csapatépítők"
     button:
-      enable: false
+      enable: true
       label: "Foglaljon most"
       link: "https://hardverapro.hu/index.html"
 
@@ -55,3 +57,4 @@ features:
       label: "Foglaljon most"
       link: "https://hardverapro.hu/index.html"
 ---
+
