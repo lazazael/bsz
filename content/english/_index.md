@@ -1,53 +1,57 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project MIKROFASZ"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Köszöntjük a Bükkiszállások honlapján!"
+  content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez."
   image: "/images/banner.png"
   button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: false
+    label: "Foglaljon most"
+    link: "https://hardverapro.hu/index.html"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Geopark Vendégház, Bükkszentkereszt - a családbarát bükki szálláshely"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Engedje el a város zaját bükki szállásunkon, és fedezze fel a Bükk szívében rejtőző varázslatos világot! A Geopark Vendégház bükkszentkereszti szálláshelyünk ideális választás gyerekes családok és baráti társaságok számára, akik szeretnének elmerülni a természet csendjében, és felejthetetlen élményekkel gazdagodni."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Kényelmes szobák, csodás kilátás"
+      - "Világos, tágas közösségi tér"
+      - "Jól felszerelt közösségi konyha"
+      - "Tűzrakóhely és grillezési lehetőség"
+      - "Családbarát szolgáltatások"
+      - "Kutyabarát szállás"
+      - "Szauna"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Foglaljon most"
+      link: "https://hardverapro.hu/index.html"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Borostyán Vendégház, erdei szállás a Bükk szívében - ahol a romantika és a természet összefonódik"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Létezik egy erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez. Üdvözlünk a Borostyán vendégházban, Répáshuta csodálatos környezetében, ahol a Bükk-hegység páratlan szépsége és a vendégszeretet harmóniája felejthetetlen élményt nyújt."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Közösségi tér"
+      - "Játszótér"
+      - "Szalonnasütő "
+      - "Céges csapatépítők"
+    button:
+      enable: false
+      label: "Foglaljon most"
+      link: "https://hardverapro.hu/index.html"
+
+  - title: "Rejteki Kutatóház, erdei vendégház a Bükk mélyén - közösségi szálláshely osztálykirándulásra, csapatépítőre"
+    image: "/images/service-3.png"
+    content: "Képzeld el, ahogy a város zaját magad mögött hagyva, egy csendes erdei tisztáson találod magad. Ahol a madarak csicsergése és a fák susogása az egyetlen zene, a friss levegő pedig megtisztítja a tested és a lelked."
+    bulletpoints:
+      - "Szalonnasütő és tábortűzhely"
+      - "Játszótér"
+      - "Szabadtéri kondipark"
+      - "Ping-pong asztal"
+      - "Természetiskolai foglalkozások"
+      - "Korlátozott térerő"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+      label: "Foglaljon most"
+      link: "https://hardverapro.hu/index.html"
 ---

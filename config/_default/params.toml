@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Bükkiszállások"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Tervezés & Fejtesztés by [Bükki Nemzeti Park Igazgatóság](https://bnpi.hu)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Foglalás"
 link = "contact"
 
 # search
@@ -62,10 +62,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Bükk szállás","Bükki szálláshely","Szállás a Bükkben","Erdei szállás Bükk","Bükk-hegység szállás","Bükki Nemzeti Park szállás","Bükkszentkereszt szállás","Répáshuta szállás","Rejtek szállás","Természetközeli szállás Bükk","Csendes szállás Bükk","Nyugodt szállás Bükk","Családbarát szállás Bükk","Szállás gyerekkel Bükk","Gyerekbarát erdei szállás","Romantikus szállás Bükk","Szállás pároknak Bükk","Kutyabarát szállás Bükk","Csoportos szállás Bükk","Osztálykirándulás szállás Bükk","Ifjúsági tábor szállás Bükk","Erdei tábor Bükk","Csapatépítő szállás Bükk","Szállás túrázóknak Bükk","Túrázás Bükk","Kirándulás Bükk","Bükki túraútvonalak","Erdei pihenés","Aktív pihenés Bükk","Bükki Csillagda közelében szállás","Lillafüred közelében szállás","Bükki programok","Természetjárás Bükk","Szállás terasszal Bükk","Panorámás szállás Bükk","Szállás szalonnasütővel Bükk","Szállás játszótérrel Bükk","Szállás szaunával Bükk","Közösségi szállás Bükk","Vendégház Bükk","Digitális detox szállás","Erdei esküvő Bükk","Osztálytalálkozó szállás Bükk","Családi rendezvény szállás Bükk"]
+description = "Bükkiszállások.hu"
+author = "Sipos Gergely, BNPI"
+twitter = "bnpi"
 image = "images/og-image.png"
 
 
@@ -83,8 +83,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Ez az oldal sütiket használ. A weboldal további használatával Ön beleegyezik ezek használatába."
+button = "Elfogadom"
 
 # diagrams
 [mermaid]
