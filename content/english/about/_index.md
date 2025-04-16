@@ -6,6 +6,7 @@ image: "/images/sights gallery/avatar.png"
 draft: false
 ---
 
+{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="true" loop="true" muted="true" controls="false" class="rounded-lg" >}}
 
 {{< gallery dir="images/sights-gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 

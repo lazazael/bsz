@@ -3,7 +3,7 @@
 banner:
   title: "Köszöntjük a Bükkiszállások honlapján!"
   content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez."
-  image: "/images/banner.png"
+  image: "/images/beech-forest-2912888-banner-rounded.png"
   draft: false
   button:
     enable: false
@@ -47,9 +47,9 @@ features:
     content: "Képzeld el, ahogy a város zaját magad mögött hagyva, egy csendes erdei tisztáson találod magad. Ahol a madarak csicsergése és a fák susogása az egyetlen zene, a friss levegő pedig megtisztítja a tested és a lelked."
     bulletpoints:
       - "Szalonnasütő és tábortűzhely"
+      - "Óriási padozott filagória"
       - "Játszótér"
       - "Szabadtéri kondipark"
-      - "Ping-pong asztal"
       - "Természetiskolai foglalkozások"
       - "Korlátozott térerő"
     button:
