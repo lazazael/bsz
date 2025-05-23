@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Our visitors are happy to tell us about their experiences..."
-description: „...reméljük, hogy hamarosan felejthetetlen emlékeket szerez nálunk, fedezze fel vendégszeretetünket!”
+description: „...we hope you will soon create unforgettable memories with us and discover our warm hospitality!”
 
 # Testimonials
 testimonials:

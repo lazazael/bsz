@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Látogatóink szívesen mesélnek élményeikről..."
-description: "A megtervezett, kapacitásilag a lehetőségekhez mérten feltöltött projekt megvalósítása érdekében szükséges lokalizálni a nagy rendelkezésre állású headert, veri macs is."
+description: „...reméljük, hogy hamarosan felejthetetlen emlékeket szerez nálunk, fedezze fel vendégszeretetünket!”
 
 # Testimonials
 testimonials:
