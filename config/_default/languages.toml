@@ -1,12 +1,12 @@
 ################ Hungarian language ##################
 [hu]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/hungarian"
-weight = 2
-################ English language ##################
-[en]
 languageName = "Hu"
 languageCode = "hu-hu"
-contentDir = "content/english"
+contentDir = "content/hungarian"
 weight = 1
+################ English language ##################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2

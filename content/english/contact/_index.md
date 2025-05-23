@@ -1,6 +1,6 @@
 ---
-title: "Kontakt"
+title: "Contact"
 meta_title: ""
 description: "this is meta description"
-draft: false
+draft: true
 ---

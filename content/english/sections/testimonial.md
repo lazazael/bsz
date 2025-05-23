@@ -1,34 +1,34 @@
 ---
 enable: true
-title: "Látogatóink szívesen mesélnek élményeikről..."
-description: "A megtervezett, kapacitásilag a lehetőségekhez mérten feltöltött projekt megvalósítása érdekében szükséges lokalizálni a nagy rendelkezésre állású headert, veri macs is."
+title: "Our visitors are happy to tell us about their experiences..."
+description: "...we hope that soon you will have unforgettable memories with us, discover our hospitality!"
 
 # Testimonials
 testimonials:
-  - name: "Péterfy Bori"
-    designation: "énekesnő"
+  - name: "Szentirmai Kata"
+    designation: "singer"
     avatar: "/images/avatar-sm.png"
-    content: "Ó, ez a hely maga volt a csoda! A bükki erdők friss levegője és a Geopark Vendégház nyugalma tökéletes harmóniába olvasztotta össze a lelkemet. A dalok csak úgy áradtak belőlem a természet inspiráló csendjében töltött hét után, veri mucs."
+    content: "Oh, this place was a miracle! The fresh air of the beech forests and the tranquillity of the Geopark Guesthouse melted my soul in perfect harmony. The ideas just flowed out of me after a week in the inspiring silence of nature."
 
   - name: "Ráhel Fanni"
     designation: "n.a."
     avatar: "/images/avatar-sm.png"
-    content: "Egyszerűen imádtam minden percet a Borostyán Vendégházban eltöltött pár nap alatt! Répáshuta környéke és a Bükk szépsége igazi romantikus menedéket nyújtott, ahol teljesen kikapcsolódhattam. Felejthetetlen volt a teraszról élvezni az erdő látványát és a madarak dalát, este pedig a csillagos ég alatt beszélgetni."
+    content: "I simply loved every minute of the few days I spent at the Ivy Guesthouse! The surroundings of Répáshuta and the beauty of the Bükk Mountains provided a real romantic retreat where I could completely relax. It was unforgettable to enjoy the view of the forest and the birds singing from the terrace, and to chat under the stars in the evening."
 
-  - name: "Dr. Gaál Eszter"
-    designation: "tudományos főmunkatárs"
+  - name: "Dr. Gaál Gabriella"
+    designation: "research lead"
     avatar: "/images/avatar-sm.png"
-    content: "Fantasztikus hetet töltöttünk a kutatócsoportommal és a gyerektáborral a Rejteki Kutatóházban! A Bükk csendje és a háborítatlan természeti környezet tökéletes helyszínt biztosított mind a tudományos munkához, mind a gyerekek számára szervezett természetismereti foglalkozásokhoz. Különösen élveztük a Bükki Nemzeti Park szakértőinek programjait és az esti közös tábortüzezéseket, amelyek igazi közösséggé kovácsoltak minket."
+    content: "We had a fantastic week with my research group and the children's camp at the Rejtek Research House! The silence of the Beech and the undisturbed natural environment provided the perfect setting for both the scientific work and the nature activities for the children. We especially enjoyed the programmes of the experts from the Bükk National Park and the evening campfires, which forged a real community."
 
-  - name: "Marvin Márk"
+  - name: "Marvin Sándor"
     designation: "IT coach"
     avatar: "/images/avatar-sm.png"
-    content: "IT coachként a képernyők és meetingek világából kiszakadni a Geopark Vendégházba maga volt a feltöltődés! A bükki erdő csendje, a friss levegő és a madárcsicsergés teljesen új energiákkal töltött fel az irodai pörgés után. Fantasztikus volt itt pihenni, igazi digitális detox és inspirációforrás volt ez a pár nap Bükkszentkereszten!"
+    content: "As an IT coach, getting away from the world of screens and meetings to the Geopark Guesthouse was a recharging experience! The silence of the beech forest, the fresh air and the birdsong filled me with new energy after the office hustle and bustle. It was fantastic to relax here, a real digital detox and a source of inspiration during these few days in Bükkszentkereszt!"
 
   - name: "Neszti Áron"
-    designation: "nyugdíjas tűzoltó"
+    designation: "retired firefighter"
     avatar: "/images/avatar-sm.png"
-    content: "Hosszú évek aktív szolgálata után igazi felüdülés volt a Geopark Vendégház csendje és a bükkerdő nyugalma. Jó volt reggelente a teraszon ülni, hallgatni a madarakat és beszívni a tiszta, harapnivaló levegőt. Tökéletes hely a pihenésre és a feltöltődésre, pont erre volt szükségem nyugdíjas éveim elején."
+    content: "After many years of active service, the quiet and tranquillity of the Geopark Guesthouse was a real relief. It was nice to sit on the terrace in the mornings, listen to the birds and breathe in the clean, crisp air. A perfect place to relax and recharge, just what I needed at the beginning of my retirement."
 
 # don't create a separate page
 _build:

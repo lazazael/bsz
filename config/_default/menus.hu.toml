@@ -12,8 +12,8 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Foglalás"
+url = "/hu/elements/"
 weight = 3
 
 [[main]]
@@ -32,32 +32,32 @@ url = "/contact"
 
 [[main]]
 parent = "Oldalak"
-name = "Authors"
+name = "Vendégházak"
 url = "/authors"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
+name = "Kategóriák"
 url = "/categories"
 
 [[main]]
 parent = "Oldalak"
-name = "404 Page"
+name = "404 Oldal"
 url = "/404"
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Látnivalók"
 url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Foglalás"
 url = "/elements"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
+name = "Adatvédelmi nyilatkozat"
 url = "/privacy-policy"
 weight = 3

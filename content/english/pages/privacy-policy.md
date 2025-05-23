@@ -1,5 +1,5 @@
 ---
-title: "Adatvédelem"
+title: "Privacy policy"
 # meta title
 meta_title: "Adatvédelmi tájékoztató"
 # meta description
@@ -8,109 +8,108 @@ description: "This is meta description"
 draft: false
 ---
 
-A www.bnpi.hu weboldalt működtető Bükki Nemzeti Park Igazgatóság („BNPI”) kiemelten fontos kérdésként kezeli a honlap használatából származó személyes adatok biztonságát. Személyes adatainak védelmére fokozott hangsúlyt fektetünk. A jelen adatvédelmi nyilatkozatban rögzítjük az ilyen adatok kezelésére vonatkozó tudnivalókat. Tájékoztatjuk, hogy személyes adatainak kezeléséhez önkéntesen megadhatja a BNPI számára a hozzájárulását.
+The Bükk National Park Directorate (“BNPI”), which operates the www.bnpi.hu website, attaches the utmost importance to the security of personal data obtained from the use of this website. We place great emphasis on the protection of your personal data. This privacy statement sets out the information we hold about how we handle such data. Please note that you can voluntarily give BNPI your consent to process your personal data.
 
-#### Adatok gyűjtése
+#### Data collection
 
-Honlapunkat személyes adatai felfedése nélkül is használhatja. Honlapunk használatának nem feltétele személyes adatainak megadása, kivéve, ha ez szükséges ahhoz, hogy saját kérésére további információt tudjunk biztosítani Önnek. Amikor honlapunkat használja, szervereinken különböző biztonsági okokból adatokat tárolunk. Ilyen adat lehet az Ön internet-szolgáltatójának neve, a honlap neve, ahonnan a mi oldalunkra jutott, a honlapok, amelyeket a mi oldalunkról meglátogat, és az Ön IP-címe. Ezek az adatok esetleg az Ön azonosítására is alkalmasak lehetnek, de azokat nem használjuk fel ilyen célokra. Időről időre statisztikai céllal felhasználjuk az adatokat, de minden egyes felhasználó névtelenségét megtartjuk, így a személy nem azonosítható. Abban az esetben, ha személyes adatait a BNPI-n belül mások rendelkezésére bocsátjuk, hogy megkaphassa a kért információkat, technikai és szervezeti eszközökkel biztosítjuk a megfelelő adatvédelmi előírások betartását.
+You can use our website without disclosing your personal data. Your personal information is not required to use our website, unless it is necessary for us to provide you with further information at your request. When you use our website, we store data on our servers for various security reasons. Such data may include the name of your internet service provider, the name of the website from which you accessed our site, the websites you visit from our site and your IP address. This data may also be used to identify you, but we do not use it for such purposes. From time to time we may use the data for statistical purposes, but we will maintain the anonymity of each user so that the individual cannot be identified. In the event that we make your personal data available to others within BNPI to obtain the information you request, we will ensure compliance with the appropriate data protection standards by technical and organisational means.
 
-#### Személyes adatainak gyűjtése és feldolgozása
+#### Collection and processing of your personal data
 
-Személyes adatokat kizárólag akkor gyűjtünk, ha ezeket Ön az adatgyűjtéshez hozzájárulva megadja nekünk, a regisztráció alkalmával, az űrlapok kitöltésekor vagy e-mailben, termékekre vonatkozó kérdések vagy kérések kapcsán, ill. egyéb okokból, ahol úgy döntött, hogy ezt az információt rendelkezésünkre bocsátja.
+We will only collect personal data if you provide it to us with your consent to the collection of the data, at the time of registration, when filling in forms or sending us emails, in connection with questions or requests about products, or for other reasons where you have chosen to provide us with this information.
 
-Az Ön személyes adatai a BNPI-nél, mint adatkezelőnél maradnak. Személyes adatait nem adjuk tovább harmadik fél számára, nem továbbítjuk az EGT államokon kívülre az Ön kifejezett írásos hozzájárulása nélkül semmilyen formában, kivéve, ha erre Ön engedélyt adott, vagy ezt jogszabály kötelezően előírja.
+Your personal data will remain with BNPI as the data controller. Your personal data will not be disclosed to third parties or transferred outside the EEA in any form without your express written consent, unless you have given us permission or unless required by law.
 
-Ha a BNPI által kezelt adatok egy része olyan számítógépeken kerül tárolásra, amelyek nem magyar joghatóság alá tartoznak, és amelyeknek az adatvédelmi jogszabályai eltérhetnek a magyar szabályoktól, ilyen esetekben biztosítjuk, hogy a tárolt adatok a tárolás helyén megfelelő védelmemmel legyenek ellátva, amelyek eleget tesznek a magyar előírásoknak.
+If part of the data processed by BNPI is stored on computers that are not under Hungarian jurisdiction and whose data protection laws may differ from Hungarian rules, in such cases we will ensure that the stored data is adequately protected at the place of storage in accordance with Hungarian regulations.
 
-#### A felhasználás céljai
+#### Purposes of use
 
-Eltérő kötelező jogszabályi rendelkezés hiányában az általunk gyűjtött adatokat kizárólag az Ön által kért információk biztosítására, vagy más, Ön által engedélyezett célokra fogjuk felhasználni. Amennyiben regisztrál oldalunkon, a regisztrációval egyidejűleg elfogadja honlapunk adatvédelmi szabályzatát, valamint hozzájárul ahhoz, hogy a honlappal, a társaságunkkal, termékeinkkel kapcsolatban tájékoztatást, hírlevelet, vagy DM üzenetet küldjünk az Ön részére, illetve hogy szolgáltatásaink bővítése céljából információt kérjünk Öntől, illetve felkérjük piackutatásban történő részvételre.
+Unless otherwise required by law, we will use the information we collect only to provide you with the information you request or for other purposes that you authorise. If you register on our site, by registering you agree to our website privacy policy and consent to receive information, newsletters or DM messages from us about the website, our company, our products, to request information from you to improve our services or to ask you to participate in market research.
 
-#### A jogok érvényesítése
+#### Enforcement of rights
 
-Személyes adatainak kezeléséről, tárolásáról, a mindenkori adatfeldolgozó személyéről a Kapcsolat menüpontban feltüntetett e-mail címre vagy a BNPI székhelyére (Eger, Sánc u. 6.) küldött levélben kérhet felvilágosítást. Ön jogosult a BNPI részére megadott személyes adatainak helyesbítését, módosítását, törlését kérni, illetve az adatkezelést bármikor megtiltani.
+You can request information about the processing and storage of your personal data and the identity of the data processor by sending a letter to the e-mail address indicated in the Contact menu or to the headquarters of BNPI (Eger, Sánc u. 6.). You have the right to request the rectification, modification or deletion of your personal data provided to BNPI, or to object to the processing at any time.
 
-Személyes adatai jövőbeni felhasználására, kezelésére vonatkozó hozzájárulását bármikor jogosult visszavonni. Ehhez csak egy e-mailt kell küldenie a Kapcsolat menüpontban. Amennyiben személyes adataihoz fűződő jogait megsértik, Ön jogosult az illetékes bírósághoz fordulni.
+You may withdraw your consent to the future use and processing of your personal data at any time. To do so, you only need to send an e-mail in the Contact Us section. If your rights to your personal data are infringed, you have the right to take legal action before the competent court.
 
-#### Adatok tárolása
+#### Data storage
 
-Személyes adatait kizárólag addig tároljuk, amíg ez az Ön által kért szolgáltatás biztosításához szükséges, vagy amennyi időre Ön hozzájárulásában engedélyezte, ha a törvény másként nem rendelkezik. Abban az esetben, ha az Ön által megadott személyes adatok kezelése az Ön által kért szolgáltatás teljesítéséhez szükséges, akkor a BNPI azok teljesítéséig, illetve a jogszabályban meghatározott ideig kezeli az Ön személyes adatait.
+We will only store your personal data for as long as it is necessary to provide the service you have requested or for as long as you have given us your consent, unless otherwise required by law. In the event that the processing of your personal data is necessary for the provision of the service you have requested, BNPI will process your personal data until such time as it is required to provide the service or for the period specified by law.
 
-#### Honlapra bejelentkezés
+#### Login to website
 
-[Adatvédelmi tájékoztató a honlapra való bejelentkezésről](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf "login")
-
-
-#### Kapcsolat űrlap használata
-
-Adatkezelő: Bükki Nemzeti Park Igazgatóság - 3304 Eger, Sánc u. 6. E-mail: titkarsag@bnpi.hu
-
-Az adatkezelő képviselője: Szádeczky Kornélia- Kommunikációs és Ökoturisztikai osztályvezető - szadeczkyk@bnpi.hu, tel.: +36 20 203-7787
-A személyes adatok kezelésének célja, az adatkezelés jogalapja:
-Vásárlói és előfizetői panaszok kivizsgálása, adatmódosítási kérelmek teljesítése, információkérésre történő válaszadás.
-Az adatkezelés a tájékoztatás színvonalának növeléséhez szükséges.
-A személyes adatok címzettjei, a címzettek kategóriái:
-Az adatokat az adatkezelő harmadik országba vagy nemzetközi szervezet részére nem továbbítja.
-A személyes adatok tárolásának időtartama:
-A fogyasztói panaszok, egyéb szerződéses kötelezettségek érvényesítésére nyitva álló határidő.
-Az érintett kérelmezheti az adatkezelőtől a rá vonatkozó személyes adatokhoz való hozzáférést, azok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat az ilyen személyes adatok kezelése ellen. Az érintettet megilleti az adathordozhatósághoz való jog.
-Az érintett hozzájárulásán alapuló adatkezelés esetén az érintettet megilleti a hozzájárulás bármely időpontban történő visszavonásához való jog, ez azonban nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét.
-Az érintett a felügyeleti hatósághoz panasz benyújtására jogosult. Felügyeleti hatóság:
-Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
-Levelezési cím: 1530 Budapest, Pf.: 5.; Cím: 1125 Budapest, Szilágyi Erzsébet fasor 22/c.; Telefon: +36 (1) 391-1400; Fax: +36 (1) 391-1410; E-mail: ugyfelszolgalat@naih.hu; [Weboldal:](www.naih.hu "naih.hu")
-A személyes adat szolgáltatása nem jogszabályon vagy szerződéses kötelezettségen alapul, szerződés kötésének nem előfeltétele.
-A személyes adatok megadása nem kötelező. A személyes adatok megadásának elmaradása esetén a válaszadás vagy a panasz kivizsgálása nem tud megvalósulni.
-A személyes adatok automatizált döntéshozatalra nem kerülnek felhasználásra.
+[Privacy policy on website login](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf “login”)
 
 
-#### A sütikk használata
+#### Use contact form
 
-Weboldalunkon úgynevezett cookie-t (sütit) használunk, hogy hatékonyabbá tegyük az Ön egyéni honlap-használatát. A sütikk olyan azonosítók, amelyeket web szerverünk az Ön számítógépének küldhet, hogy azonosítsa a honlapon tartózkodás alatt használt számítógépet. A legtöbb böngésző az alapbeállítás szerint automatikusan fogadja ezeket a sütiket. A sütikk tárolása kikapcsolható, ill. beállítható a böngészőben, hogy kapjon értesítést, mielőtt számítógépén egy sütit tárolnak. Ha a sütiket nem csak az adott látogatás idejére mentjük el, és nem kerülnek ezt követően automatikusan törlésre, hanem a tárolás hosszabb időre szól, az érintett sütik beállításakor erről értesítjük Önt.
+Data Controller: Bükk National Park Directorate - 3304 Eger, Sánc u. 6. E-mail: titkarsag@bnpi.hu
 
-[Adatvédelmi tájékoztató a sütikről](https://www.bnpi.hu/msite/194/adatvedelmi_cookie_kieg.4.pdf "sütik")
+Kornélia Szádeczky - Head of Communication and Ecotourism Department - szadeczkyk@bnpi.hu, tel.: +36 20 203-7787
+Purpose of processing personal data, legal basis for processing:
+Investigating customer and subscriber complaints, fulfilling requests for data modification, responding to requests for information.
+Processing of data is necessary to improve the quality of information.
+Recipients of personal data, categories of recipients:
+The data will not be transferred by the controller to third countries or international organisations.
+The period for which personal data are stored:
+The time limit for consumer complaints and other contractual obligations.
+The data subject may request the controller to access, rectify, erase or restrict the processing of personal data relating to him or her and may object to the processing of such personal data. The data subject shall have the right to data portability.
+Where processing is based on the data subject's consent, the data subject shall have the right to withdraw consent at any time, without prejudice to the lawfulness of processing carried out on the basis of consent prior to its withdrawal.
+The data subject has the right to lodge a complaint with the supervisory authority. Supervisory authority:
+National Authority for Data Protection and Freedom of Information (NAIH)
+Postal address.
+The provision of personal data is not mandatory. Failure to provide personal data will prevent a response or investigation of the complaint.
+Personal data will not be used for automated decision-making.
 
+#### Use of the cookie
 
-#### Biztonság
+We use a cookie on our website to make your individual use of the website more efficient. Cookies are identifiers that our web server can send to your computer to identify the computer used while you are on the website. Most browsers automatically accept these cookies by default. You can turn off cookie storage or set your browser to notify you before a cookie is stored on your computer. If cookies are not only stored for the duration of a visit and are not automatically deleted afterwards, but are stored for a longer period, you will be informed when you set the relevant cookie.
 
-A BNPI technikai és szervezeti biztonsági intézkedésekkel védi adatait a módosítástól, a sérüléstől, a megsemmisüléstől vagy az illetéktelen személyek általi hozzáféréstől. Minden személyes adatot, amelyet Ön a BNPI számára átadott, továbbítás során titkosítunk, hogy megakadályozzunk bármely harmadik személy általi esetleges visszaélést. Biztonsági intézkedéseinket folyamatosan felülvizsgáljuk az új technológiai fejlesztéseknek megfelelően.
+[Privacy notice on cookies](https://www.bnpi.hu/msite/194/adatvedelmi_cookie_kieg.4.pdf "cookies")
 
-#### Hírlevél
+#### Security
 
-Lehetősége van hírlevél küldési szolgáltatásunkra feliratkozni, mely által értesülhet a Bükki Nemzeti Park Igazgatósággal kapcsolatos információkról, az Igazgatóság eseményeiről és más érdekes hírekről. Hírlevelünkre történő feliratkozása során nevén és e-mail címén kívül semmilyen más adatát nem kezeljük. Felhívjuk figyelmét, hogy az adatkezelés bármely szakaszában lehetősége nyílik a hírlevélről való leiratkozásra, amelyet a kapcsolat@bnpi.hu címen megtehet.
+BNPI has technical and organisational security measures in place to protect your data from modification, damage, destruction or access by unauthorised persons. All personal data that you provide to BNPI is encrypted during transmission to prevent possible misuse by any third party. Our security measures are continually reviewed in light of new technological developments.
 
-#### Az adatkezelés szabályai
+#### Newsletter
 
-Az adatkezelés célja: a feliratkozók részére hírlevél küldése, kapcsolattartás céljából az aktuális hírekről szóló értesítések érdekében. Kezelt adatok köre: név, e-mail cím
+You can subscribe to our newsletter service to receive information about the Bükk National Park Directorate, events of the Directorate and other interesting news. When you subscribe to our newsletter, we will not process any of your data other than your name and e-mail address. Please note that at any stage of the processing of your data, you will have the possibility to unsubscribe from the newsletter by contacting kapcsolat@bnpi.hu.
 
-Az adatkezelés jogalapja: az információs önrendelkezési jogról és információszabadságról szóló 2011.évi CXII. törvény 5. § (1) a) pontja szerinti érintetti hozzájárulás. Az adattárolás határideje: az adatkezelési cél megvalósulásáig, de maximum a feliratkozó adatainak tárolása az érintett törlési jelzéséig történik.
+#### Rules on data processing
 
-Az adattárolás módja: elektronikus
-[Adatvédelmi tájékoztató a hírlevélről](https://www.bnpi.hu/msite/194/adatvedelmi_hirlevel_kieg.5.pdf "newsmail")
+Purpose of data processing: to send newsletters to subscribers, for the purpose of contacting them and informing them of current news. Data processed: name, e-mail address
 
-#### Gyermekek
+Legal basis for processing: data subject's consent pursuant to Section 5 (1) a) of Act CXII of 2011 on the Right of Informational Self-Determination and Freedom of Information. Time limit for data storage: until the purpose of data processing is achieved, but no longer than until the subscriber's data are stored until the data subject's deletion is indicated.
 
-A gyermekek személyes adatainak védelme kiemelt fontosságú, ezért általunk ismerten 18 év alatti személytől származó adatot nem gyűjtünk, nem dolgozunk fel, és nem használunk fel a honlapunkon a törvényes képviselő előzetes, ellenőrizhető hozzájárulása nélkül. A törvényes képviselőnek joga van kérésre megtekinteni a gyermek által biztosított információkat, és/vagy elrendelni azok törlését.
+Method of data storage: electronic
+[Data protection information about the newsletter](https://www.bnpi.hu/msite/194/adatvedelmi_hirlevel_kieg.5.pdf "newsmail")
 
-#### Elérhetőség
+#### Children
 
-Ha bármilyen kérdése, javaslata, esetleg kifogása van, kérjük, lépjen kapcsolatba a BNPI-vel az impresszumban megadott elérhetőségek bármelyikén. Az internet folyamatos fejlődése miatt időnként módosítanunk kell adatvédelmi nyilatkozatunkat. Fenntartjuk a jogot, hogy szükség esetén egyoldalú változtatásokat eszközöljünk.
+The protection of children's personal data is of the utmost importance, therefore we do not collect, process or use any data from persons under the age of 18 known to us on our website without the prior verifiable consent of their legal guardian. The legal guardian has the right to view and/or request the deletion of information provided by the child upon request.
 
-#### Fénykép- és videófelvételek
+#### Contact us
 
-Adatvédelmi tájékoztató fényképek, videók készítéséről
+If you have any questions, suggestions or objections, please contact BNPI using any of the contact details in the imprint. As the Internet continues to evolve, we may need to amend our privacy policy from time to time. We reserve the right to make unilateral changes where necessary.
 
-#### Szálláshelyek
+#### Photos and videos
 
-[Adatvédelmi tájékoztató szálláshelyekről](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf"data")
+There is nothing in the General Data Protection Regulation (GDPR) that prohibits people from taking photos in a public place. Provided you are not harassing anyone, taking photographs of people in public is generally allowed and most likely will qualify for the household exemption under Article 2(2)(c) of the GDPR.
 
-#### Online vásárlás
+However, what you do with that photo can potentially become a data protection issue, for example, if the photograph, which contained the personal data of individuals, was sold for commercial gain or was posted publicly on a social media account. Under those circumstances, you are likely to be considered a data controller which brings with it a host of obligations and duties under data protection law. In particular, it would be necessary for you to demonstrate, amongst other things, your lawful basis for the processing of such personal data under Article 6(1) of the GDPR.
 
-[Adatvédelmi tájékoztató az online vásárlásról](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf"shop")
+#### Accommodation
 
-#### A Bükki Nemzeti Park Igazgatóság által rendezett programokon, rendezvényeken történő fénykép- és videófelvételek készítése - gyermekek részvételével
+[Privacy notice about accommodation](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf “data”)
 
-[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf"photography")
+#### Online shopping
 
-#### A Bükki Nemzeti Park Igazgatóság által rendezett programokon, rendezvényeken történő fénykép- és videófelvételek készítése - pályázati finanszírozás esetén
+[Privacy policy for online shopping](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf “shop”)
 
-[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf"events")
+#### Photography and video recording of programmes and events organised by the Bükk National Park Directorate - with the participation of children
+
+[Data protection information on taking and publishing photographs and videos](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf “photography”)
+
+#### Photographic and video recordings of the programmes and events organised by the Bükk National Park Directorate - in case of funding
+
+[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf“events”)

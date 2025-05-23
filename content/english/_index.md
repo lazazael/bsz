@@ -1,60 +1,61 @@
 ---
 # Banner
 banner:
-  title: "Köszöntjük a Bükkiszállások honlapján!"
-  content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez."
+  title: "Welcome to the website of Bükk Guesthouses!"
+  content: “There are forest lodges where silence and tranquillity reign, where the birdsong is the morning wake-up call and where the starry sky is the most beautiful backdrop for romantic evenings.”
   image: "/images/beech-forest-2912888-banner-rounded.png"
   draft: false
   button:
-    enable: false
-    label: "Foglaljon most"
-    link: "https://hardverapro.hu/index.html"
+    button:
+      enable: false
+      label: "Book now"
+      link: "/elements"
 
 
 # Features
 features:
-  - title: "Geopark Vendégház, Bükkszentkereszt - a családbarát bükki szálláshely"
+  - title: "Geopark Guesthouse, Bükkszentkereszt - a family friendly accomodation by essence"
     image: "/images/service-1.png"
-    content: "Engedje el a város zaját bükki szállásunkon, és fedezze fel a Bükk szívében rejtőző varázslatos világot! A Geopark Vendégház bükkszentkereszti szálláshelyünk ideális választás gyerekes családok és baráti társaságok számára, akik szeretnének elmerülni a természet csendjében, és felejthetetlen élményekkel gazdagodni."
+    content: "Let go of the city noise in our accommodation in the Bükk and discover the magical world hidden in the heart of the Bükk! Our Geopark Guesthouse in Bükkszentkeresz is the ideal choice for families with children and groups of friends who want to immerse themselves in the silence of nature and enjoy unforgettable experiences."
     bulletpoints:
-      - "Kényelmes szobák, csodás kilátás"
-      - "Világos, tágas közösségi tér"
-      - "Jól felszerelt közösségi konyha"
-      - "Tűzrakóhely és grillezési lehetőség"
-      - "Családbarát szolgáltatások"
-      - "Kutyabarát szállás"
-      - "Szauna"
+      - “Comfortable rooms, great views”
+      - “Bright, spacious common area”
+      - “Well equipped communal kitchen”
+      - “Fireplace and barbecue facilities”
+      - “Family-friendly facilities”
+      - “Dog-friendly accommodation”
+      - “Sauna”
     button:
       enable: true
-      label: "Foglaljon most"
-      link: "https://hardverapro.hu/index.html"
+      label: "Book now"
+      link: "/elements"
 
-  - title: "Borostyán Vendégház, erdei szállás a Bükk szívében - ahol a romantika és a természet összefonódik"
+  - title: "Borostyán Guesthouse, forest accommodation in the heart of the Bükk - where romance and nature intertwine"
     image: "/images/service-2.png"
-    content: "Képzelj el egy vendégházat a fák ölelésében, a béke birodalmát. Itt a hajnalokat a szárnyasok vidám kórusa köszönti, az alkonyat utáni meghitt órákhoz pedig a tündöklő égbolt adja a legszebb hátteret, felejthetetlen, bensőséges pillanatokat szerezve. A Borostyán vendégházban, Répáshuta csodálatos környezetében, ahol a Bükk-hegység páratlan szépsége és a vendégszeretet harmóniája felejthetetlen élményt nyújt."
+    content: "Imagine a guest house in the trees, a realm of peace. Here, the dawn is greeted by the joyful chorus of winged birds, and the glowing sky provides the most beautiful backdrop for the intimate hours after dusk, creating unforgettable moments of intimacy. At the Amber Guesthouse, in the wonderful surroundings of Répáshuta, where the unparalleled beauty of the Bükk Mountains and the harmony of hospitality will make your stay an unforgettable experience."
     bulletpoints:
-      - "Közösségi tér"
-      - "Játszótér"
-      - "Szalonnasütő"
-      - "Céges csapatépítők"
+      - “Community space”
+      - “Playground”
+      - “Bacon oven”
+      - “Corporate team builders”
     button:
       enable: true
-      label: "Foglaljon most"
-      link: "https://hardverapro.hu/index.html"
+      label: "Book now"
+      link: "/elements"
 
-  - title: "Rejteki Kutatóház, erdei vendégház a Bükk mélyén - közösségi szálláshely osztálykirándulásra, csapatépítőre"
+  - title: “Rejtek Research House, forest guesthouse in the depths of the Bükk - community accommodation for class trips, team building”
     image: "/images/service-3.png"
-    content: "Képzeld el, ahogy a város zaját magad mögött hagyva, egy csendes erdei tisztáson találod magad. Ahol a madarak csicsergése és a fák susogása az egyetlen zene, a friss levegő pedig megtisztítja a tested és a lelked."
+    content: "Leaving the noise of the city behind you, you will find yourself in a quiet forest clearing with us. Here, the chirping of the birds and the rustling of the trees are nature's music, and the fresh air cleanses your body and soul."
     bulletpoints:
-      - "Szalonnasütő és tábortűzhely"
-      - "Óriási padozott filagória"
-      - "Játszótér"
-      - "Szabadtéri kondipark"
-      - "Természetiskolai foglalkozások"
-      - "Korlátozott térerő"
+      - “Bacon oven and campfire”
+      - “Huge covered philagoria”
+      - “Playground”
+      - “Outdoor gym”
+      - “Nature school activities”
+      - “Limited space”
     button:
       enable: true
-      label: "Foglaljon most"
-      link: "https://hardverapro.hu/index.html"
+      label: "Book now"
+      link: "/elements"
 ---
 

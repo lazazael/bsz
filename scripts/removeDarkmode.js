@@ -11,7 +11,7 @@ const configFiles = [
 
 // asset paths
 const deleteAssetList = [
-  "exampleSite/assets/images/logo-darkmode.png",
+  "exampleSite/assets/images/logo_BNPI_64_Named_Dark.png",
   "layouts/partials/components/theme-switcher.html",
 ];
 
