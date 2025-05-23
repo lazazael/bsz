@@ -8,11 +8,12 @@ draft: false
 
 <hr>
 
-### Youtube video
+### Site-seeing
 
 {{< youtube iyH6wGGIqx4 >}}
 
 <hr>
+
 <!-- 3D VR Tour -->
 <iframe src="https://bnpivr.bukkista.hu/Geopark/index.htm" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" name="3d-vr-tour">
 </iframe>
