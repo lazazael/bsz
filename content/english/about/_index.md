@@ -15,10 +15,16 @@ draft: false
 <hr>
 
 <!-- 3D VR Tour -->
+
+### 3D Tour inside the Geopark Guesthouse
+
 <iframe src="https://bnpivr.bukkista.hu/Geopark/index.htm" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" name="3d-vr-tour">
 </iframe>
 <!-- /3D VR Tour -->
 <hr>
+
+### Gallery of Nature
+
 {{< gallery dir="images/sights-gallery" class=""  height="400" width="400"  webp="true" command="Fit" option="" zoomable="true" >}}
 <hr>
 {{< accordion "Bükk Astronomical Observatory" >}}
