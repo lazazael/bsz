@@ -16,36 +16,6 @@ name = "Foglalás"
 url = "/hu/elements/"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Oldalak"
-
-[[main]]
-parent = "Oldalak"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Oldalak"
-name = "Kapcsolat"
-url = "/contact"
-
-[[main]]
-parent = "Oldalak"
-name = "Vendégházak"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Kategóriák"
-url = "/categories"
-
-[[main]]
-parent = "Oldalak"
-name = "404 Oldal"
-url = "/404"
-
-
 # footer menu
 [[footer]]
 name = "Látnivalók"

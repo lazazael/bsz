@@ -6,10 +6,12 @@ image: "/images/sights gallery/avatar.png"
 draft: false
 ---
 
-<!-- In-built video -->
-{{< video src="motion/video/egyEvABukkben720p_ytGrab.mp4" width="100%" height="auto" autoplay="true" loop="treu" muted="true" controls="true" class="rounded-lg" >}}
-<!-- /In-built video -->
 <hr>
+
+### Youtube video
+
+{{< youtube iyH6wGGIqx4 >}}
+
 <!-- 3D VR Tour -->
 <iframe src="https://bnpivr.bukkista.hu/Geopark/index.htm" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" name="3d-vr-tour">
 </iframe>

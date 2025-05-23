@@ -1,0 +1,63 @@
+############# Hungarian navigation ##############
+
+# main menu
+[[main]]
+name = "Főoldal"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Látnivalók"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Foglalás"
+url = "/hu/elements/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Oldalak"
+
+[[main]]
+parent = "Oldalak"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Oldalak"
+name = "Kapcsolat"
+url = "/contact"
+
+[[main]]
+parent = "Oldalak"
+name = "Vendégházak"
+url = "/authors"
+
+[[main]]
+parent = "Oldalak"
+name = "Kategóriák"
+url = "/categories"
+
+[[main]]
+parent = "Oldalak"
+name = "404 Oldal"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "Látnivalók"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Foglalás"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Adatvédelmi nyilatkozat"
+url = "/privacy-policy"
+weight = 3
