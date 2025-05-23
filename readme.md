@@ -7,4 +7,4 @@
 
 ## 💻 Need Customization?
 
-If you need a custom theme, theme customization, or complete website development services from scratch you can send inquery to gergelysip@gmail.com.
+If you need a custom website development services from scratch you can send inquery to gergelysip@gmail.com.
