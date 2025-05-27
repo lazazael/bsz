@@ -7,7 +7,7 @@ banner:
   draft: false
   button:
     button:
-      enable: false
+      enable: true
       label: "Book now"
       link: "/elements"
 
@@ -16,7 +16,7 @@ banner:
 features:
   - title: "Geopark Guesthouse, Bükkszentkereszt - a family friendly accomodation by essence"
     image: "/images/service-1v2.png"
-    content: "Let go of the city noise in our accommodation in the Bükk and discover the magical world hidden in the heart of the Bükk! Our Geopark Guesthouse in Bükkszentkeresz is the ideal choice for families with children and groups of friends who want to immerse themselves in the silence of nature and enjoy unforgettable experiences."
+    content: "Let go of the city noise in our accommodation in the Bükk and discover the magical world hidden in the heart of the Bükk! Our Geopark Guesthouse in Bükkszentkereszt is the ideal choice for families with children and groups of friends who want to immerse themselves in the silence of nature and enjoy unforgettable experiences."
     bulletpoints:
       - “Comfortable rooms, great views”
       - “Bright, spacious common area”
@@ -31,7 +31,7 @@ features:
 
   - title: "Borostyán Guesthouse, forest accommodation in the heart of the Bükk - where romance and nature intertwine"
     image: "/images/service-2v2.png"
-    content: "Imagine a guest house in the trees, a realm of peace. Here, the dawn is greeted by the joyful chorus of winged birds, and the glowing sky provides the most beautiful backdrop for the intimate hours after dusk, creating unforgettable moments of intimacy. At the Amber Guesthouse, in the wonderful surroundings of Répáshuta, where the unparalleled beauty of the Bükk Mountains and the harmony of hospitality will make your stay an unforgettable experience."
+    content: "Imagine a guest house in the trees, a realm of peace. Here, the dawn is greeted by the joyful chorus of songbirds, the glowing sky provides the most beautiful backdrop for the intimate hours after dusk, creating unforgettable moments of intimacy. At the Amber Guesthouse, you are in the wonderful surroundings of Répáshuta, where the unparalleled beauty of the Bükk Mountains and the harmony of hospitality will make your stay an unforgettable experience."
     bulletpoints:
       - “Community space”
       - “Playground”
@@ -42,7 +42,7 @@ features:
       label: "Book now"
       link: "/elements"
 
-  - title: "Rejtek Research House, forest guesthouse in the depths of the Bükk - community accommodation for class trips, team building"
+  - title: "Rejtek Research House, forest guesthouse in the depths of the Bükk - community accommodation for a group of like-minded people, be it a class trips or team building"
     image: "/images/service-3v2.png"
     content: "Leaving the noise of the city behind you, you will find yourself in a quiet forest clearing with us. Here, the chirping of the birds and the rustling of the trees are nature's music, and the fresh air cleanses your body and soul."
     bulletpoints:
