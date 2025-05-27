@@ -8,7 +8,7 @@ draft: false
 
 <hr>
 
-### Site-seeing in the Bukk Mountain
+### Sightseeing in the Bukk Mountain
 
 {{< youtube iyH6wGGIqx4 >}}
 
