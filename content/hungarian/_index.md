@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Köszöntjük a Bükkiszállások honlapján!"
-  content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, ahol romantikus esték legszebb díszlete a csillagos égbolt."
+  content: "Létezik olyan erdei szállás, ahol a csend és a nyugalom uralkodik, a madárcsicsergés a reggeli ébresztő és romantikus esték legszebb díszlete a csillagos égbolt."
   image: "/images/beech-forest-2912888-banner-rounded.png"
   draft: false
   button:

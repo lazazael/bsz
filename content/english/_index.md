@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to the website of Bükk Guesthouses!"
-  content: “There are forest lodges where silence and tranquillity reign, where the birdsong is the morning wake-up call and where the starry sky is the most beautiful backdrop for romantic evenings.”
+  content: “There are forest lodges where silence and tranquillity reign,  birdsong is the morning wake-up call and the starry sky shows the most beautiful backdrop for romantic evenings.”
   image: "/images/beech-forest-2912888-banner-rounded.png"
   draft: false
   button:
