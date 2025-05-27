@@ -42,7 +42,7 @@ features:
       label: "Book now"
       link: "/elements"
 
-  - title: “Rejtek Research House, forest guesthouse in the depths of the Bükk - community accommodation for class trips, team building”
+  - title: "Rejtek Research House, forest guesthouse in the depths of the Bükk - community accommodation for class trips, team building"
     image: "/images/service-3v2.png"
     content: "Leaving the noise of the city behind you, you will find yourself in a quiet forest clearing with us. Here, the chirping of the birds and the rustling of the trees are nature's music, and the fresh air cleanses your body and soul."
     bulletpoints:
