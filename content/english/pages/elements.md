@@ -3,7 +3,7 @@ title: "Booking"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "R+ reservation engine"
 # save as draft
 draft: false
 ---

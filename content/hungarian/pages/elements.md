@@ -3,7 +3,7 @@ title: "Foglalás"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "R+ foglalómotor beágyazása"
 # save as draft
 draft: false
 ---

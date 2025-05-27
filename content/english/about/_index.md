@@ -1,7 +1,7 @@
 ---
-title: "About our sites"
-meta_title: "Látnivalók"
-description: "A vendég ház körüli látnivalók"
+title: "About our sights"
+meta_title: "Sights"
+description: "Sights at our guesthouses"
 image: "/images/sights gallery/avatar.png"
 draft: false
 ---
