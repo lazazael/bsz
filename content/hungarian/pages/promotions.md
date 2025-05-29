@@ -14,11 +14,16 @@ draft: false
 
 <hr>
 
+
+
 ### Visit Hungary Nyár 2025
 
 Mi is csatlakoztunk a Visit Hungary országos kampányához, melyben 2025. június 1. és július 15. közti  3  éjszakás foglalás esetén ➕1️⃣ vendégéjszakát adunk 🎁 ajándékba! 🥳
 
 🛏🏡 Foglaljatok május 26-tól szállást a Geopark vagy Borostyán Vendégházunkba a június 1. és július 15. közötti időszakra 3 éjszakára, és töltsétek szállásunkon a 4. éjszakát ingyen!😉☺️
+
+{{< button label="Foglalás" link="/elements" style="solid" position="center">}}
+
 
 További információk:
 
