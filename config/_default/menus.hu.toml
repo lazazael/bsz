@@ -16,6 +16,11 @@ name = "Foglalás"
 url = "/hu/elements/"
 weight = 3
 
+[[main]]
+weight = 4
+name = "Visit Hungary Nyári Ajánlat 2025"
+url = "/promotions"
+
 # footer menu
 [[footer]]
 name = "Látnivalók"
