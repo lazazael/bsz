@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false 
 title: "Our visitors are happy to tell us about their experiences..."
 description: „...we hope you will soon create unforgettable memories with us and discover our warm hospitality!”
 

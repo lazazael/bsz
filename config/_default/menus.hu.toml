@@ -33,6 +33,6 @@ url = "/elements"
 weight = 2
 
 [[footer]]
-name = "Adatvédelmi nyilatkozat"
+name = "Adatvédelem"
 url = "/privacy-policy"
 weight = 3

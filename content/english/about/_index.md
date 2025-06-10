@@ -29,9 +29,10 @@ draft: false
 <!-- /3D VR Tour -->
 <hr>
 
-### Gallery of Nature
+### Gallery of Bukk National Park, Hungrary
 
-{{< gallery dir="images/sights-gallery" class=""  height="400" width="400"  webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/sights-gallery" class="max-w-[800px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 <hr>
 {{< accordion "Bükk Astronomical Observatory" >}}
 

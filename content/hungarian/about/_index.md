@@ -30,7 +30,7 @@ draft: false
 
 ### Galéria
 
-{{< gallery dir="images/sights-gallery" class=""  height="400" width="400"  webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/sights-gallery" class="max-w-[800px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 <hr>
 {{< accordion "Bükki Csillagda" >}}
 

@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Látogatóink szívesen mesélnek élményeikről..."
 description: „...reméljük, hogy hamarosan felejthetetlen emlékeket szerez nálunk, fedezze fel vendégszeretetünket!”
 

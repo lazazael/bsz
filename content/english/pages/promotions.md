@@ -1,7 +1,7 @@
 ---
 title: "Promotions"
 # meta title
-meta_title: "Promotion currently running"
+meta_title: "Current promotions"
 # meta description
 description: "Promotions page"
 # save as draft

@@ -1,9 +1,9 @@
 ---
 title: "Adatvédelem"
 # meta title
-meta_title: "Adatvédelmi tájékoztató"
+meta_title: "Adatvédelmi nyilatkozat"
 # meta description
-description: "This is meta description"
+description: "meta"
 # save as draft
 draft: false
 ---
@@ -38,14 +38,17 @@ Személyes adatait kizárólag addig tároljuk, amíg ez az Ön által kért szo
 
 #### Honlapra bejelentkezés
 
-[Adatvédelmi tájékoztató a honlapra való bejelentkezésről](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf "login")
+[Adatvédelmi tájékoztató a honlapra való bejelentkezésről](https://www.bukkiszallasok.hu/images/docs/privacy/v01/hu/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf)
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
 
 
 #### Kapcsolat űrlap használata
 
 Adatkezelő: Bükki Nemzeti Park Igazgatóság - 3304 Eger, Sánc u. 6. E-mail: titkarsag@bnpi.hu
 
-Az adatkezelő képviselője: Szádeczky Kornélia- Kommunikációs és Ökoturisztikai osztályvezető - szadeczkyk@bnpi.hu, tel.: +36 20 203-7787
+Az adatkezelő képviselője: Várhelyi-Szomszéd Eszter - Kommunikációs és Ökoturisztikai osztályvezető - varhelyi.szomszed.eszter@bnpi.hu, tel.: +36 30 523-2877
 A személyes adatok kezelésének célja, az adatkezelés jogalapja:
 Vásárlói és előfizetői panaszok kivizsgálása, adatmódosítási kérelmek teljesítése, információkérésre történő válaszadás.
 Az adatkezelés a tájékoztatás színvonalának növeléséhez szükséges.
@@ -114,3 +117,4 @@ Adatvédelmi tájékoztató fényképek, videók készítéséről
 #### A Bükki Nemzeti Park Igazgatóság által rendezett programokon, rendezvényeken történő fénykép- és videófelvételek készítése - pályázati finanszírozás esetén
 
 [Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf"events")
+
