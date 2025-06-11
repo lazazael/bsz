@@ -6,9 +6,10 @@ name = "Főoldal"
 url = "/"
 weight = 1
 
+
 [[main]]
-name = "Látnivalók"
-url = "/about"
+name = "Vendégházaink"
+url = "/authors"
 weight = 2
 
 [[main]]
@@ -17,9 +18,37 @@ url = "/hu/elements/"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Visit Hungary Nyári Ajánlat 2025"
+name = "Ajánlatok"
 url = "/promotions"
+weight = 4
+
+[[main]]
+weight = 5
+name = "További oldalak"
+
+[[main]]
+parent = "További oldalak"
+name = "Látnivalók"
+url = "/about"
+weight = 6
+
+[[main]]
+parent = "További oldalak"
+name = "Blog"
+url = "/blog"
+weight = 7
+
+# [[main]]
+# parent = "További oldalak"
+# name = "Kapcsolat"
+# url = "/contact"
+# weight = 8
+
+[[main]]
+parent = "További oldalak"
+name = "Kategóriák"
+url = "/categories"
+weight = 9
 
 # footer menu
 [[footer]]

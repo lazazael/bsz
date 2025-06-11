@@ -1,7 +1,7 @@
 ---
 title: "About our sights"
 meta_title: "Sights"
-description: "Sights at our guesthouses"
+description: "Sights at our Guest houses"
 image: "/images/sights gallery/avatar.png"
 draft: false
 ---
@@ -14,7 +14,7 @@ draft: false
 
 <hr>
 
-### Bukk-Region Geopark, Where stones has stories
+### Bukk-Region Geopark, Where stones tell stories
 
 {{< youtube g5siGV4-k2k >}}
 
@@ -22,7 +22,7 @@ draft: false
 
 <!-- 3D VR Tour -->
 
-### 3D Tour inside the Geopark Guesthouse
+### 3D Tour inside the Geopark Guest house
 
 <iframe src="https://bnpivr.bukkista.hu/Geopark/index.htm" width="100%" height="800" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" name="3d-vr-tour">
 </iframe>

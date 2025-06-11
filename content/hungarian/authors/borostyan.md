@@ -1,7 +1,7 @@
 ---
 title: Borostyán
 image: "/images/avatar.png"
-description: this is meta description
+description: b
 
 ---
 

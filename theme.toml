@@ -7,6 +7,9 @@ demosite = "https://zeon.studio/preview?project=hugoplate"
 min_version = "0.141.0"
 
 tags = [
+  "guesthouses"
+  "bnpi"
+  "corporate"
   "blog",
   "responsive",
   "minimal",
@@ -21,7 +24,7 @@ tags = [
 ]
 
 features = [
-  "Multi-Authors",
+  "Multi-guesthouses",
   "Search",
   "Multilingual",
   "Dark Mode",
@@ -30,7 +33,7 @@ features = [
 
 [author]
 name = "mod by Sipos Gergely, authored by Zeon Studios"
-homepage = ""
+homepage = "https://github.com/lazazael/bsz"
 
 [original]
 author = "Zeon Studio"

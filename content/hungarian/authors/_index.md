@@ -1,3 +1,3 @@
 ---
-title: "Vendégházak"
+title: "Vendégházaink"
 ---
