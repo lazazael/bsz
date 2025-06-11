@@ -1,9 +1,9 @@
 ---
 title: "Kullancsok elleni védekezés kirándulásunk során"
-meta_title: ""
-description: "kullancsBAMBAMBAM"
+meta_title: "Kullancs"
+description: "Hogyan védekezzünk a kullancsok ellen"
 date: 2025-05-30T07:00:00Z
-image: "images/blog/post1/blogPost_1_tick_prevention_Gemini_Generated_Image_damx4zdamx4zdamx.png"
+image: "/images/blog/post1/blogPost_1_tick_prevention_genai.png"
 categories: ["Fauna"]
 author: "Gergely"
 tags: ["kullancs", "kirandulás"]
@@ -15,9 +15,11 @@ draft: false
 Szereted a természetet? Akkor valószínűleg már te is találkoztál az egyik legbosszantóbb és potenciálisan legveszélyesebb kis élősködővel: a kullanccsal. Nem kell megijedni, de érdemes felkészülni, hogy a kirándulás ne a kullancsok miatt maradjon emlékezetes!
 
 ### Miért olyan fontos a védekezés?
+
 A kullancsok nemcsak kellemetlenek, de számos betegséget is terjeszthetnek, mint például a Lyme-kór vagy a encephalitis (agyvelőgyulladás). Ezek komoly egészségügyi problémákat okozhatnak, ezért sokkal jobb megelőzni a bajt, mint utólag küzdeni vele.
 
 ### Tippek a kullancsmentes kiránduláshoz
+
 A jó hír az, hogy néhány egyszerű óvintézkedéssel jelentősen csökkentheted a csípés kockázatát.
 
 #### 1. Öltözködés: A védőpajzs
@@ -42,7 +44,7 @@ Fűnyírás: Ha saját kerted van, vagy olyan területen tartózkodsz, ahol soka
 
 Tűzifa tárolása: Ha fát gyűjtögetsz, vagy tűzifa van a közelben, légy óvatos, mert a farakások is kedvelt helyei a kullancsoknak.
 
-#### 4. Alapos átvizsgálás: A legfontosabb lépés!
+#### 4. Alapos átvizsgálás: A legfontosabb lépés
 
 Hazatérés után, de még zuhanyzás előtt alaposan vizsgáld át magad tetőtől talpig! Kérd meg a barátodat, párodat, hogy segítsen a nehezen elérhető helyek, mint például a hátad vagy a hajas fejbőröd átnézésében. Különös figyelmet fordíts a testhajlatokra:
 
@@ -53,6 +55,7 @@ Hazatérés után, de még zuhanyzás előtt alaposan vizsgáld át magad tetőt
 - A ruhádat is vizsgáld át, mielőtt beviszed a házba! Érdemes magas hőfokon kimosni őket.
 
 #### 5. Mi van, ha mégis csípés történt?
+
 Ne pánikolj! Ha kullancsot találsz a bőrödön, minél hamarabb távolítsd el. Ehhez használj kullancscsipeszt, vagy vékony hegyű csipeszt.
 
 Fogd meg a kullancsot a bőrhöz a legközelebb eső ponton, a fejénél.

@@ -38,17 +38,17 @@ name = "Blog"
 url = "/blog"
 weight = 7
 
-# [[main]]
-# parent = "További oldalak"
-# name = "Kapcsolat"
-# url = "/contact"
-# weight = 8
-
 [[main]]
 parent = "További oldalak"
 name = "Kategóriák"
 url = "/categories"
-weight = 9
+weight = 8
+
+# [[main]]
+# parent = "További oldalak"
+# name = "Kapcsolat"
+# url = "/contact"
+# weight = 9
 
 # footer menu
 [[footer]]

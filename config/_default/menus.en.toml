@@ -39,15 +39,17 @@ weight = 7
 
 [[main]]
 parent = "Pages"
-name = "Contact"
-url = "/contact"
+name = "Categories"
+url = "/categories"
 weight = 8
 
 [[main]]
 parent = "Pages"
-name = "Categories"
-url = "/categories"
+name = "Contact"
+url = "/contact"
 weight = 9
+
+
 
 
 # footer menu
