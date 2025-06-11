@@ -38,11 +38,7 @@ Személyes adatait kizárólag addig tároljuk, amíg ez az Ön által kért szo
 
 #### Honlapra bejelentkezés
 
-[Adatvédelmi tájékoztató a honlapra való bejelentkezésről](https://www.bukkiszallasok.hu/images/docs/privacy/v01/hu/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf)
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-
+[Adatvédelmi tájékoztató a honlapra való bejelentkezésről](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf "login")
 
 #### Kapcsolat űrlap használata
 
@@ -66,12 +62,11 @@ A személyes adatok megadása nem kötelező. A személyes adatok megadásának 
 A személyes adatok automatizált döntéshozatalra nem kerülnek felhasználásra.
 
 
-#### A sütikk használata
+#### A sütik használata
 
 Weboldalunkon úgynevezett cookie-t (sütit) használunk, hogy hatékonyabbá tegyük az Ön egyéni honlap-használatát. A sütikk olyan azonosítók, amelyeket web szerverünk az Ön számítógépének küldhet, hogy azonosítsa a honlapon tartózkodás alatt használt számítógépet. A legtöbb böngésző az alapbeállítás szerint automatikusan fogadja ezeket a sütiket. A sütikk tárolása kikapcsolható, ill. beállítható a böngészőben, hogy kapjon értesítést, mielőtt számítógépén egy sütit tárolnak. Ha a sütiket nem csak az adott látogatás idejére mentjük el, és nem kerülnek ezt követően automatikusan törlésre, hanem a tárolás hosszabb időre szól, az érintett sütik beállításakor erről értesítjük Önt.
 
 [Adatvédelmi tájékoztató a sütikről](https://www.bnpi.hu/msite/194/adatvedelmi_cookie_kieg.4.pdf "sütik")
-
 
 #### Biztonság
 
@@ -88,6 +83,7 @@ Az adatkezelés célja: a feliratkozók részére hírlevél küldése, kapcsola
 Az adatkezelés jogalapja: az információs önrendelkezési jogról és információszabadságról szóló 2011.évi CXII. törvény 5. § (1) a) pontja szerinti érintetti hozzájárulás. Az adattárolás határideje: az adatkezelési cél megvalósulásáig, de maximum a feliratkozó adatainak tárolása az érintett törlési jelzéséig történik.
 
 Az adattárolás módja: elektronikus
+
 [Adatvédelmi tájékoztató a hírlevélről](https://www.bnpi.hu/msite/194/adatvedelmi_hirlevel_kieg.5.pdf "newsmail")
 
 #### Gyermekek
@@ -100,21 +96,21 @@ Ha bármilyen kérdése, javaslata, esetleg kifogása van, kérjük, lépjen kap
 
 #### Fénykép- és videófelvételek
 
-Adatvédelmi tájékoztató fényképek, videók készítéséről
+[Adatvédelmi tájékoztató fényképek, videók készítéséről](https://www.bnpi.hu/msite/194/adatvedelmi_fenykepek_uj.pdf "photography")
 
 #### Szálláshelyek
 
-[Adatvédelmi tájékoztató szálláshelyekről](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf"data")
+[Adatvédelmi tájékoztató szálláshelyekről](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf "data")
 
 #### Online vásárlás
 
-[Adatvédelmi tájékoztató az online vásárlásról](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf"shop")
+[Adatvédelmi tájékoztató az online vásárlásról](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf "shop")
 
 #### A Bükki Nemzeti Park Igazgatóság által rendezett programokon, rendezvényeken történő fénykép- és videófelvételek készítése - gyermekek részvételével
 
-[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf"photography")
+[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf "photography")
 
 #### A Bükki Nemzeti Park Igazgatóság által rendezett programokon, rendezvényeken történő fénykép- és videófelvételek készítése - pályázati finanszírozás esetén
 
-[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf"events")
+[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf "events")
 

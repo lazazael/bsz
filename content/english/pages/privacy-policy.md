@@ -38,7 +38,7 @@ We will only store your personal data for as long as it is necessary to provide 
 
 #### Login to website
 
-[Privacy policy on website login](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf “login”)
+[Privacy policy on website login](https://www.bnpi.hu/msite/194/adatvedelmi_honlaprabejelentkezes_kieg.4.pdf "login")
 
 
 #### Use contact form
@@ -82,6 +82,7 @@ Purpose of data processing: to send newsletters to subscribers, for the purpose 
 Legal basis for processing: data subject's consent pursuant to Section 5 (1) a) of Act CXII of 2011 on the Right of Informational Self-Determination and Freedom of Information. Time limit for data storage: until the purpose of data processing is achieved, but no longer than until the subscriber's data are stored until the data subject's deletion is indicated.
 
 Method of data storage: electronic
+
 [Data protection information about the newsletter](https://www.bnpi.hu/msite/194/adatvedelmi_hirlevel_kieg.5.pdf "newsmail")
 
 #### Children
@@ -100,16 +101,16 @@ However, what you do with that photo can potentially become a data protection is
 
 #### Accommodation
 
-[Privacy notice about accommodation](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf “data”)
+[Privacy notice about accommodation](https://www.bnpi.hu/msite/194/adatvedelmi_szallashely_uj.3.pdf "data")
 
 #### Online shopping
 
-[Privacy policy for online shopping](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf “shop”)
+[Privacy policy for online shopping](https://www.bnpi.hu/msite/194/adatvedelmi_onlinevasarlas_kieg.5.pdf "shop")
 
 #### Photography and video recording of programmes and events organised by the Bükk National Park Directorate - with the participation of children
 
-[Data protection information on taking and publishing photographs and videos](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf “photography”)
+[Data protection information on taking and publishing photographs and videos](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20gyermekek%20r%C3%A9szv%C3%A9tel%C3%A9vel.pdf "photography")
 
 #### Photographic and video recordings of the programmes and events organised by the Bükk National Park Directorate - in case of funding
 
-[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf“events”)
+[Adatvédelmi tájékoztató fénykép- és videófelvételek készítéséről, közzétételéről](https://www.bnpi.hu/uploads/194/Rendezv%C3%A9ny%20felv%C3%A9tel%20k%C3%A9sz%C3%ADt%C3%A9s%20adatkezel%C3%A9si%20t%C3%A1j%C3%A9koztat%C3%B3%20-%20p%C3%A1ly%C3%A1zati%20finansz%C3%ADroz%C3%A1s%20eset%C3%A9n.pdf "events")
