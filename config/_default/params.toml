@@ -33,7 +33,7 @@ copyright = "2025 developed by [BNPI](https://bnpi.hu)"
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]

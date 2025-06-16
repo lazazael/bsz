@@ -65,4 +65,4 @@ Figyeld a csípés helyét a következő hetekben! Ha kipirosodik, kiütés jele
 Ne hagyd, hogy egy apró kullancs elrontsa a túrát!
 A megelőzés kulcsfontosságú. Ha odafigyelsz ezekre az egyszerű tippekre, sokkal nagyobb eséllyel úszod meg kullancscsípés nélkül a kirándulásaidat. Ne feledd, a tudatosság a legjobb védekezés!
 
-Te mit teszel a kullancsok ellen, mielőtt útnak indulsz? Oszd meg velünk a kommentekben!
+##### Te mit teszel a kullancsok ellen, mielőtt útnak indulsz? Oszd meg velünk a kommentekben!

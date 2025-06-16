@@ -18,7 +18,7 @@ We've enthusiastically joined Visit Hungary's nationwide campaign! As a special 
 
 Come and experience our warm hospitality! Book your 3-night getaway at either our Geopark or Borostyán Guest houses from May 26th onwards for any period between June 1st and July 15th, and enjoy a delightful 4th night completely free! 😉😊
 
-{{< button label="Book Now" link="/elements" style="solid" position="center">}}
+{{< button label="Book Now" link="../en/elements" style="solid" position="center">}}
 
 For more information, please contact us:
 
