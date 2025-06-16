@@ -54,6 +54,6 @@ features:
     button:
       enable: true
       label: "Foglaljon most"
-      link: "/hu/elements/"
+      link: "../hu/elements/"
 ---
 

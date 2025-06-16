@@ -55,6 +55,6 @@ features:
     button:
       enable: true
       label: "Book now"
-      link: "/elements"
+      link: "../en/elements"
 ---
 
