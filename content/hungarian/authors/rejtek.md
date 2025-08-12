@@ -5,9 +5,9 @@ description: r
 ---
 
 
-### A Rejteki közösségi szálláshely szolgáltatásai
-
 A Rejteki Kutatóház - közösségi szálláshely Répáshutától 6 km-re, a 2505-ös út mellett található. Kiválóan alkalmas helyszín osztálykirándulások, ifjúsági táborok, csapatépítő tréningek, családi rendezvények, csoportos és egyéni túrázók számára. Az összesen 41 férőhelyes szálláshely 2020-ban újult meg a Téry Ödön Program keretében.
+
+### A Rejteki közösségi szálláshely szolgáltatásai
 
 A kutatóház emeletén 2 db 16 ágyas közösségi szoba (8 db emeletes ággyal szobánként), a folyosón közös zuhanyzók, mosdók (külön férfi és női) várják a vendégeket.
 

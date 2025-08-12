@@ -5,9 +5,9 @@ description: this is meta description
 
 ---
 
-### Services of the Geopark Guesthouse
-
 Our themed guesthouse was established as a geopark model project to showcase the values of the Bükk-vidék UNESCO Global Geopark in a truly special location in the center of Bükkszentkereszt. Our accommodation is also easily accessible by public transport. It is an ideal venue for couples seeking nature, family events, corporate team-building programs, class reunions, wedding anniversaries, and even smaller forest weddings.
+
+### Services of the Geopark Guesthouse
 
 In the Geopark Guesthouse, we can provide accommodation for a total of 28 guests in 6 double rooms, 2 quadruple rooms, and 2 quadruple apartments with private kitchens. Every room has an en-suite bathroom with a shower and a private terrace, and the windows overlook the Bükk Mountains, offering a unique view to our visitors.
 

@@ -5,9 +5,10 @@ description: this is meta description
 
 ---
 
-### Services of the Rejtek Community Accommodation
 
 The Rejtek Research House - Community Accommodation is located 6 km from Répáshuta, next to road 2505. It is an excellent venue for school trips, youth camps, team-building training, family events, as well as for group and individual hikers. The accommodation, with a total capacity of 41 people, was renovated in 2020 as part of the Téry Ödön Program.
+
+### Services of the Rejtek Community Accommodation
 
 On the upper floor of the research house, guests will find 2 community rooms with 16 beds each (8 bunk beds per room), with shared showers and washrooms (separate for men and women) located on the corridor.
 

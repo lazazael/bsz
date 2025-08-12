@@ -5,9 +5,9 @@ description: g
 
 ---
 
-### A Geopark vendégház szolgáltatásai
-
 Tematikus vendégházunk geoparki mintaprojektként jött létre a Bükk-vidék UNESCO Globális Geopark értékeinek bemutatására, egy igazán különleges helyszínen, Bükkszentkereszt központjában. Szálláshelyünk tömegközlekedéssel is könnyedén elérhető. Ideális helyszín természetbe vágyó párok, családi rendezvények, céges csapatépítő programok, osztálytalálkozók, házassági évfordulók, de akár kisebb erdei esküvők számára is.
+
+### A Geopark vendégház szolgáltatásai
 
 A Geopark Vendégházban 6 db 2 ágyas, 2 db 4 ágyas szobában és 2 db 4 ágyas, saját konyhás apartmanban, összesen 28 vendég számára tudunk szállást biztosítani. Minden szoba zuhanyzós fürdőszobával, saját terasszal rendelkezik, az ablakok a Bükkre néznek, páratlan látványt nyújtva a hozzánk érkezőknek.
 
