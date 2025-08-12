@@ -11,10 +11,10 @@ name = "Guest houses"
 url = "/guesthouses"
 weight = 2
 
-[[main]]
-name = "Booking"
-url = "/elements"
-weight = 3
+# [[main]]
+# name = "Booking"
+# url = "/elements"
+# weight = 3
 
 [[main]]
 name = "Promotions"

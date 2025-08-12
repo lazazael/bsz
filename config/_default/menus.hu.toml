@@ -12,10 +12,10 @@ name = "Vendégházaink"
 url = "/authors"
 weight = 2
 
-[[main]]
-name = "Foglalás"
-url = "/hu/elements/"
-weight = 3
+# [[main]]
+# name = "Foglalás"
+# url = "/hu/elements/"
+# weight = 3
 
 [[main]]
 name = "Ajánlatok"

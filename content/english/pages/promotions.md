@@ -8,7 +8,7 @@ description: "Promotions page"
 draft: false
 ---
 
-### Visit Hungary Summer 2025
+### Visit Hungary End of Summer 2025
 
 {{< image src="images/promotions/promo_eng_visitHungaryEndSummer25_250812.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
