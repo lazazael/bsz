@@ -5,49 +5,42 @@ description: b
 
 ---
 
-Borostyán vendégház erdei szállás a Bükk szívében, ahol a romantika és a természet összefonódik
-Létezik egy erdei szállás, ahol a csend és a nyugalom uralkodik, ahol a madárcsicsergés a reggeli ébresztő, és ahol a csillagos égbolt a legszebb díszlet a romantikus estékhez. Üdvözlünk a Borostyán vendégházban, Répáshuta csodálatos környezetében, ahol a Bükk-hegység páratlan szépsége és a vendégszeretet  harmóniája felejthetetlen élményt nyújt.
-Romantikus erdei szállás a Bükkben
-A Borostyán vendégház ideális erdei szállás pároknak, akik szeretnének kiszakadni a hétköznapok rohanásából, és egy romantikus elvonulásra vágynak. A csodálatos természeti környezetben megbúvó 7 szobás vendégház nyugalma tökéletes helyet biztosít a pihenéshez.
-Erdőre néző óriási terasz - A teraszról elénk táruló panoráma lélegzetelállító. A reggeli kávé elfogyasztása közben gyönyörködhetünk a Bükk erdeiben, este pedig a csillagok ezrei ragyognak felettünk.
-Romantikus esték - A szalonnasütőnél eltöltött esték, a tűz ropogása és a csillagos égbolt felejthetetlen élményt nyújt.
-Erdei szállás családoknak és baráti társaságoknak
-KÉP
-Borostyán vendégház nem csupán a romantikára vágyó pároknak kínál ideális helyszínt. A közösségi tér, a szalonnasütő és a hatalmas terasz tökéletes helyszínt biztosít családi rendezvények, osztálytalálkozók és baráti összejövetelek számára is.
-Közösségi tér - A közösségi tér ideális helyszín a közös étkezésekhez, játékokhoz és beszélgetésekhez.
-Játszótér -
-Szalonnasütő - A szalonnasütőnél eltöltött esték a régi emlékek felidézésére és új emlékek teremtésére adnak lehetőséget.
-Céges csapatépítők - A vendégház elszigetelt környezete és a Bükk által kínált aktív programok ideális helyszínt biztosítanak a céges csapatépítők számára.
-Aktív szabadidős programok a Bükki erdei szállás környékén
-A Borostyán vendégház elhelyezkedése kiváló lehetőséget biztosít a természet szerelmeseinek és az aktív pihenésre vágyóknak.
-Túrázási lehetőségek - A Bükk-hegység számtalan túraútvonallal várja a kirándulókat. A vendégházból könnyen elérhetők a legnépszerűbb túraútvonalak.
-Bükki Csillagda - A közeli Bükki Csillagda páratlan élményt nyújt a csillagászat iránt érdeklődőknek. Remek családos program.
-Bükki Nemzeti Park - A Bükki Nemzeti Parkban a természeti értékek mellett a kulturális örökség is gazdag. Ismerje meg a közeli tanösvényeket, bemutatóhelyeket, így a lillafüredi barlangokat vagy a Szeleta Parkot.
-A Borostyán erdei vendégház kényelme és szolgáltatásai
-A bükki vendégházban minden adott a kényelmes és gondtalan pihenéshez.
-Teljesen felszerelt közösségi konyha - A konyha minden szükséges eszközzel felszerelt, így a vendégek saját maguk készíthetik el kedvenc ételeiket.
-Parkolási lehetőség - A vendégház saját, zárt parkolóval rendelkezik, így a vendégek biztonságban tudhatják gépjárműveiket.
-Foglaljon most, és élje át a Borostyán vendégház nyújtotta varázslatos erdei hangulatot!
-Ne hagyja ki ezt a páratlan lehetőséget, hogy eltöltsön néhány felejthetetlen napot a Bükk szívében, a Borostyán Vendégházban. Látogasson el a www.bukkiszallasok.hu weboldalra, és foglalja le szállását még ma!
-További információ:
-A foglalásokat online és telefonon is fogadjuk.
-A szálláshelyre háziállatot is lehet hozni.
-A szálláshely nemdohányzó.
-Wi-Fi elérés.
-VÉGE
-META leírás a cikkhez: A Borostyán Vendégház panorámás erdei szállásokat kínál a Bükkben romantikus környezetben
-Kép alt text: Borostyán Vendégház Bükk erdei szállás pároknak
-Kép fájlnév: borostyan-vendeghaz-bukk-erdei-szallas.jpg
-SEO kulcsszavak: erdei szállás – kiemelten. További blogbejegyzések esetén érdemes az alábbiakra is készíteni anyagokat:
-Bükkszentkereszt szállás
-Bükk szállás
-túrázás Bükk
-erdei kaland
-Bükki Nemzeti Park
-erdei pihenés családoknak
-Bükkszentkereszt túraútvonalak
-TOP 3 erdei szállás
-házassági évforduló szállás
-osztálytalálkozó szállás
-csapatépítő szállás
+Természetközeli pihenésre csábít a meseszép környezet, védett növény- és állatvilágával. Vendégházunk nemcsak egyéni szálláshelyként ideális, hanem családi és baráti összejövetelek, céges csapatépítő rendezvények tartására is alkalmas.
 
+### Megközelítés:
+
+A Borostyán Vendégház a Bükkben, Eger felöl megközelítve Répáshuta !előtt!, az Eger-Miskolc közötti szakaszon félúton, (25-ös km-szelvénynél), a Bükki Csillagdától mindössze 3 percnyi autóútra található.
+
+#### GPS koordináták: É 48,0538° / K 20,5139°
+
+### Elhelyezés, ellátás:
+
+A vendégház 7 db kétágyas (pótágyazható), kényelmes, összkomfortos, fürdőszobás szobával, teljesen felszerelt, közösségi konyhával (gáztűzhely, serpenyők, palacsintasütő, lábasok, illetve mikrohullámú sütő, vízforraló, kávéfőző, kenyérpirító, evőeszközök, tányérok, poharak) és társalgóval várja a természetközeli kikapcsolódásra, egészséges környezetre vágyó szállóvendégeit. A szálláshely összes férőhelye 21 fő.
+
+A házat 2 hektáros, körülkerített park határolja, ahol a játszótér és a kültéri fitnessz eszközök /szabadtéri kondipark/ ingyenesen használhatók. Az udvaron a környezetbe illő, fából készült, tágas, fedett terasz, bográcsozási- és szalonnasütési lehetőség biztosított. A szükséges eszközök (nyársbotok, bogrács) és tűzifa a helyszínen térítésmentesen rendelkezésre állnak.
+
+A kisgyerekes családoknak térítésmentesen biztosítunk etetőszéket és utazóágyat.
+
+Vendégházunk kutyabarát szállás, a házi kedvenceket térítés ellenében szívesen látjuk, de az allergiásoknak sem kell aggódniuk, a kutyusok csak bizonyos szobákat használhatnak.
+
+A szálláshely önellátó, a legközelebbi étterem a szomszédos településen, Répáshután található. (Innen ételkiszállítás csoportok számára elérhető.)
+
+### Egyéb információk
+
+Idegenforgalmi adó (IFA):
+
+300 Ft/fő/éj - a helyszínen, kizárólag készpénzben fizetendő, a szállásdíjakon felül.
+
+#### Fizetési lehetőség:
+
+Készpénz, bankkártya, SZÉP kártya (OTP)
+
+6 éves kor alatt a szállás ingyenes.
+
+Zárt udvarunkban a parkolás ingyenesen biztosított.
+
+#### Információ, foglalás:
+
+bukkiszallasok.hu, szallas@bnpi.hu; +36 30 328 4969
+
+NTAK azonosító: EG25107621

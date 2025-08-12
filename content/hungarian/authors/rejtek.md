@@ -4,66 +4,49 @@ image: "/images/avatar.png"
 description: r
 ---
 
-<hr>
-Képzeld el, ahogy a város zaját magad mögött hagyva, egy csendes erdei tisztáson találod magad. Ahol a madarak csicsergése és a fák susogása az egyetlen zene, a friss levegő pedig megtisztítja a tested és a lelked. Üdvözlünk az erdei közösségi szállásunkon, ahol a természet közelsége és a közösség ereje felejthetetlen élményeket teremt! A szállás osztálykirándulásra, csoportok számára is ideális!
 
-<hr>
-Erdei közösségi szállás osztálykirándulásra, csapatépítőre!
-A Rejtek Közösségi Szálláshely tökéletes kiindulópont bükki túrákhoz - Szállásunk a túrázók paradicsoma. Számos bükki túraútvonal indul innen, amelyek felfedezésre várnak. Fedezd fel a Bükk rejtett kincseit, lélegezd be a friss erdei levegőt, és élvezd a természet nyújtotta szabadságot!
+### A Rejteki közösségi szálláshely szolgáltatásai
 
-<hr>
-Ideális szállás osztálykirándulásra, ifjúsági táborokhoz és iskolai kirándulásokhoz - Szállásunk ideális helyszín gyerekcsoportok számára. A hatalmas területen a gyerekek szabadon játszhatnak, fedezhetik fel a természetet, és új barátságokat köthetnek.
-Közösségi élmények - Szállásunk a közösségi élményeknek is örömmel helyet ad. A szalonnasütőnél összegyűlve, a tábortűz körül ülve, vagy a ping-pong asztal mellett játszva vendégeink felejthetetlen emlékeket szerezhetnek.
-Természetközeli programok - Előzetes igény esetén a Bükki Nemzeti Park Igazgatóság környezeti nevelői természetiskolai foglalkozásokat tartanak, amelyeken a gyerekek játékos formában ismerhetik meg a nemzeti park és szűkebb környezetünk élővilágát.
+A Rejteki Kutatóház - közösségi szálláshely Répáshutától 6 km-re, a 2505-ös út mellett található. Kiválóan alkalmas helyszín osztálykirándulások, ifjúsági táborok, csapatépítő tréningek, családi rendezvények, csoportos és egyéni túrázók számára. Az összesen 41 férőhelyes szálláshely 2020-ban újult meg a Téry Ödön Program keretében.
 
-<hr>
+A kutatóház emeletén 2 db 16 ágyas közösségi szoba (8 db emeletes ággyal szobánként), a folyosón közös zuhanyzók, mosdók (külön férfi és női) várják a vendégeket.
 
-### A Rejteki közösségi szálláshely szolgáltatásai:
+A kutatóház alsó szintjén 2 db 3 ágyas, felújított, saját fürdőszobával rendelkező szoba található.
 
-- Szalonnasütő és tábortűzhely - Élvezd a szabadtéri sütögetés örömét, és süss ízletes szalonnát vagy finom ételeket a tábortűzhelyen!
-- Ping-pong asztal - Mérd össze ügyességedet barátaiddal egy izgalmas ping-pong meccsen!
-- Játszótér -A gyerekek a játszótéren szabadon játszhatnak, hintázhatnak, csúszdázhatnak, és élvezhetik a szabadságot.
-- Szabadtéri kondipark -Tartsd formában magad a szabadtéri kondiparkban, ahol a friss levegőn végezheted az edzést!
-- Természetiskolai foglalkozások - Ismerd meg a nemzeti park élővilágát szakértőink vezetésével, és vegyél részt izgalmas programokon!
-- Csend és nyugalom - Szállásunk távol esik a város zajától, így garantált a csend és a nyugalom.
-- Háborítatlan környezet - Élvezd a természet háborítatlan szépségét, és töltődj fel a friss levegővel!
-- Korlátozott térerő - Szállásunkon a térerő korlátozott, így valóban elszakadhatsz a digitális világtól, és a jelen pillanatra koncentrálhatsz.
+A közösségi konyha teljesen felszerelt: gáztűzhely, serpenyők, palacsintasütő, lábasok, illetve mikrohullámú sütő, vízforraló, kávéfőző, kenyérpirító, etetőszék, evőeszközök, tányérok, poharak állnak a vendégek rendelkezésére.
 
-#### Programlehetőségek a környéken
+A külön épületben egyéni vendégeket is tudunk fogadni: a 2 ágyas (+1 pótágy) apartmanban konyha, fürdőszoba is van.
 
-- Túrázás - Fedezd fel a környék túraútvonalait, és gyönyörködj a táj szépségében!
-- Kerékpározás - Fedezd fel a környéket kerékpárral, és élvezd a szabadságot!
-- Látnivalók - Látogass el a környékbeli látnivalókhoz – a Bükki Csillagdához, a lillafüredi barlangokhoz vagy éppen a Szeleta Parkba –, és ismerd meg a helyi kultúrát!
-- Pihenés - Pihenj és töltődj fel a természet közelségében, és élvezd a csendet és a nyugalmat!
-- Osztálykirándulásra, táboroztatásra ajánljuk a Rejteki közösségi szálláshelyet
-- Ifjúsági táboroztatók
-- Gyerekcsoportok
-- Iskolák, osztálykirándulások
-- Túrázók
-- Természetkedvelők
-- A csendre és nyugalomra vágyók
-- Közösségi élményekre vágyók
-- Gyere, és fedezd fel a Rejteki közösségi szálláshely varázsát!
-- Tapasztald meg a természet közelségét, a közösség erejét, és szerezz felejthetetlen élményeket! Foglald le szállásodat még ma, és készülj fel egy kalandos erdei kirándulásra!
+A kisgyerekes családoknak térítésmentesen biztosítunk utazóágyat.
 
-#### További információk:
+Szálláshelyünk kutyabarát, a házi kedvenceket térítés ellenében szívesen látjuk, de az allergiásoknak sem kell aggódniuk, a kutyusok csak bizonyos szobákat használhatnak.
 
-Kövesd közösségi média oldalainkat, ahol rendszeresen osztunk meg friss híreket és érdekességeket!
-Várunk szeretettel a Rejteki közösségi szállásunkon!
+Az udvaron fedett terasz, bográcsozási- és szalonnasütési lehetőség biztosított. A szükséges eszközök (nyársbotok, bogrács) és tűzifa a helyszínen térítésmentesen rendelkezésre állnak.
 
-VÉGE
-META leírás a cikkhez: A bükkszentkereszti Rejtek Közösségi Szálláshely ideális szállás osztálykirándulásra, ifjúsági táborokhoz és iskolai kirándulásokhoz, gyerekcsoportoknak
-Kép alt text: Rejtek Kutatóház közösségi szálláshely osztálykirándulásra csoportoknak
-Kép fájlnév: rejtek-kutatohaz-kozossegi-szallashely-osztalykirandulasra-csoportoknak
-Opcionális URL, értelemszerűen az adott oldal saját struktúrájának megfelelően érdemes kialakítani, hogy ez a szálláshely főoldala lesz-e, vagy már egy beszédes aloldal. Ha utóbbi, lehet használni ezt a hosszú linket, ha előbbi, akkor valószínűleg érdemes másképp elnevezni: rejteki-kozossegi-szallashely-osztalykirandulasra-csapatepitore
-Kulcsszavak: osztálykirándulás szállás
-közösségi szállás
-közösségi szálláshely
-Bükk tábor
-erdei tábor
-ifjúsági tábor
-csoportos szállás
-Bükk szállás
-túrázás Bükk
-erdei kaland
-Bükki Nemzeti Park
+A szálláshely önellátó, a legközelebbi étterem a szomszédos településeken, Répáshután és Bükkszentkereszten található. (Innen ételkiszállítás csoportok számára elérhető.)
+
+A területen lévő ping-pong asztal, csocsóasztal, játszótér és kültéri fitnessz eszközök /szabadtéri kondipark/ ingyenesen használhatók.
+
+Térerő az ingatlan csak néhány pontján elérhető, WIFI nincs. 
+
+### Egyéb információk
+
+Idegenforgalmi adó (IFA):
+
+400 Ft/fő/éj - a helyszínen, kizárólag készpénzben fizetendő, a szállásdíjakon felül.
+
+#### Fizetési lehetőség:
+
+Készpénz, bankkártya, SZÉP kártya (OTP)
+
+6 éves kor alatt a tartózkodás ingyenes.
+
+Parkolásra az épület mellett van lehetőség.
+
+#### Információ, foglalás:
+
+bukkiszallasok.hu, szallas@bnpi.hu; +36 30 328 4969
+
+NTAK azonosító: KO25107624
+
+GPS koordináták: É 48°03’53” / K 20° 33’48”
