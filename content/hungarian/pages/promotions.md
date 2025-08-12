@@ -10,7 +10,7 @@ draft: false
 
 ### Visit Hungary Nyári Útószezon 2025
 
-{{< image src="promo_hun_visitHungaryEndSummer25_250812.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/promotions/promo_hun_visitHungaryEndSummer25_250812.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
 
