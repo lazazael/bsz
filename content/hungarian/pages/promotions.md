@@ -14,9 +14,9 @@ draft: false
 
 <hr>
 
-Csatlakoztunk a Visit Hungary országos kampányához, melyben 2025. augusztus 21. és szeptember 15. közti  3  éjszakás foglalás esetén ➕1️⃣ vendégéjszakát adunk 🎁 ajándékba! 🥳
+Csatlakoztunk a Visit Hungary országos kampányához, melyben 2026. február 2. és március 15. közötti  3  éjszakás foglalás esetén ➕1️⃣ vendégéjszakát adunk 🎁 ajándékba! 🥳
 
-🛏🏡 Foglaljatok augusztus 11-tól szállást a Geopark vagy Borostyán Vendégházunkba a augusztus 21. és szeptember 15. közötti időszakra 3 éjszakára, és töltsétek szállásunkon a 4. éjszakát ingyen!😉☺️
+🛏🏡 Foglaljatok szállást a Geopark Vendégházunkba a február 2. és március 15. közötti időszakra 3 éjszakára, és töltsétek szállásunkon a 4. éjszakát ingyen!😉☺️
 
 {{< button label="Foglalás" link="../hu/elements" style="solid" position="center">}}
 

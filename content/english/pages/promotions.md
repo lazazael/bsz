@@ -14,9 +14,9 @@ draft: false
 
 <hr>
 
-We've enthusiastically joined Visit Hungary's nationwide campaign! As a special treat for our guests, when you **book a 3-night stay between Aug 21th and Sept 15th, 2025, you'll receive an extra night on us!** 🎉
+We've enthusiastically joined Visit Hungary's nationwide campaign! As a special treat for our Geopark Guesthouse guests, when you **book a 3-night stay between Feb 2th and Mar 15th 2026, you'll receive an extra night on us!** 🎉
 
-Come and experience our warm hospitality! Book your 3-night getaway at either our Geopark or Borostyán Guest houses from Aug 11th onwards for any period between Aug 21st and Spet 15th, and enjoy a delightful 4th night completely free! 😉😊
+Come and experience our warm hospitality! Book your 3-night getaway at either our Geopark Guesthouse for 3 nights between Feb 2st and Mar 15th, and enjoy a delightful 4th night completely free! 😉😊
 
 {{< button label="Book Now" link="../en/elements" style="solid" position="center">}}
 
