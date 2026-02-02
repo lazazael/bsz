@@ -8,9 +8,9 @@ description: "Promotions page"
 draft: false
 ---
 
-### Visit Hungary End of Winter 2025
+### Visit Hungary End of Winter 2026
 
-{{< image src="images/promotions/promo_hun_visitHungaryEndWinter26_260202.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/promotions/promo_eng_visitHungaryEndWinter26_260202.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
 
