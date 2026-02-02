@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "2025 developed by [BNPI](https://bnpi.hu)"
+copyright = "2026 developed by [BNPI](https://bnpi.hu)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -57,7 +57,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "Keresd a Visit Hungary Nyári Kedvezményt az Ajánlatok között! / Check out or Visit Hungary Summer Promotion 2025 on the Promotions Page!"
+content = "Keresd a Visit Hungary Nyári Kedvezményt az Ajánlatok között! / Check out or Visit Hungary Summer Promotion 2026 on the Promotions Page!"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
