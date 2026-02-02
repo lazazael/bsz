@@ -8,13 +8,13 @@ description: "Ajánlatok oldal"
 draft: false
 ---
 
-### Visit Hungary Nyári Útószezon 2025
+### Visit Hungary Téli Utószezon 2026
 
-{{< image src="images/promotions/promo_hun_visitHungaryEndSummer25_250812.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/promotions/promo_hun_visitHungaryEndWinter26_260202.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
 
-Csatlakoztunk a Visit Hungary országos kampányához, melyben 2026. február 2. és március 15. közötti  3  éjszakás foglalás esetén ➕1️⃣ vendégéjszakát adunk 🎁 ajándékba! 🥳
+Csatlakoztunk a Visit Hungary országos kampányához, melyben 2026. február 2. és március 15. közötti  3  éjszakás foglalás esetén a Geopark Vendégházban ➕1️⃣ vendégéjszakát adunk 🎁 ajándékba! 🥳
 
 🛏🏡 Foglaljatok szállást a Geopark Vendégházunkba a február 2. és március 15. közötti időszakra 3 éjszakára, és töltsétek szállásunkon a 4. éjszakát ingyen!😉☺️
 
