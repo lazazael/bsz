@@ -24,6 +24,7 @@ features:
       - “Fireplace and barbecue facilities”
       - “Family-friendly facilities”
       - “Dog-friendly accommodation”
+      - "Bachelor, bachelorette, and wedding venue"
     button:
       enable: false
       label: "Book now"
@@ -37,6 +38,7 @@ features:
       - “Playground”
       - “Bacon oven”
       - “Corporate team builders”
+      - "Bachelor, bachelorette, and wedding venue"
     button:
       enable: false
       label: "Book now"
@@ -52,6 +54,7 @@ features:
       - “Outdoor gym”
       - “Nature school activities”
       - “Limited space”
+      - "Bachelor, bachelorette, and wedding venue"
     button:
       enable: true
       label: "Book now"

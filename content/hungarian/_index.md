@@ -23,6 +23,7 @@ features:
       - "Tűzrakóhely és grillezési lehetőség"
       - "Családbarát szolgáltatások"
       - "Kutyabarát szállás"
+      - "Legény,lánybúcsú és esküvői helyszín"
     button:
       enable: false
       label: "Foglaljon most"
@@ -36,6 +37,7 @@ features:
       - "Játszótér"
       - "Szalonnasütő"
       - "Céges csapatépítők"
+      - "Legény,lánybúcsú és esküvői helyszín"
     button:
       enable: false
       label: "Foglaljon most"
@@ -51,6 +53,7 @@ features:
       - "Szabadtéri kondipark"
       - "Természetiskolai foglalkozások"
       - "Korlátozott térerő"
+      - "Legény,lánybúcsú és esküvői helyszín"
     button:
       enable: true
       label: "Foglaljon most"
