@@ -45,7 +45,7 @@ We will only store your personal data for as long as it is necessary to provide 
 
 Data Controller: Bükk National Park Directorate - 3304 Eger, Sánc u. 6. E-mail: titkarsag@bnpi.hu
 
-Kornélia Szádeczky - Head of Communication and Ecotourism Department - szadeczkyk@bnpi.hu, tel.: +36 20 203-7787
+Bíró Tibor - Head of Communication and Ecotourism Department - biro.tibor@bnpi.hu, tel.: +36 30 756 32 56
 Purpose of processing personal data, legal basis for processing:
 Investigating customer and subscriber complaints, fulfilling requests for data modification, responding to requests for information.
 Processing of data is necessary to improve the quality of information.

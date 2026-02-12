@@ -44,7 +44,7 @@ Személyes adatait kizárólag addig tároljuk, amíg ez az Ön által kért szo
 
 Adatkezelő: Bükki Nemzeti Park Igazgatóság - 3304 Eger, Sánc u. 6. E-mail: titkarsag@bnpi.hu
 
-Az adatkezelő képviselője: Várhelyi-Szomszéd Eszter - Kommunikációs és Ökoturisztikai osztályvezető - varhelyi.szomszed.eszter@bnpi.hu, tel.: +36 30 523-2877
+Az adatkezelő képviselője:  Bíró Tibor- Ökoturisztikai és Környezeti Nevelési Osztály osztályvezető - biro.tibor@bnpi.hu, tel.: +36 30 756 32 56
 A személyes adatok kezelésének célja, az adatkezelés jogalapja:
 Vásárlói és előfizetői panaszok kivizsgálása, adatmódosítási kérelmek teljesítése, információkérésre történő válaszadás.
 Az adatkezelés a tájékoztatás színvonalának növeléséhez szükséges.
