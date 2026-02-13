@@ -14,7 +14,7 @@ draft: false
 
 <hr>
 
-Csatlakoztunk a Visit Hungary országos kampányához, melyben 2026. február 2. és március 15. közötti  3  éjszakás foglalás esetén a Geopark Vendégházban 5% kedvezményt kap  🎁 ajándékba! 🥳
+Csatlakoztunk a Visit Hungary országos kampányához, melyben 2026. február 2. és március 15. közötti  akár egyetlen éjszaka foglalása esetén a Geopark Vendégházban 5% kedvezményt kap  🎁 ajándékba! 🥳
 
 
 {{< button label="Foglalás" link="../hu/elements" style="solid" position="center">}}

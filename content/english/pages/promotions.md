@@ -14,7 +14,7 @@ draft: false
 
 <hr>
 
-We've enthusiastically joined Visit Hungary's nationwide campaign! As a special treat for our Geopark Guesthouse guests, when you **book a 3-night stay between Feb 2th and Mar 15th 2026, you'll receive %5 discount!** 🎉
+We've enthusiastically joined Visit Hungary's nationwide campaign! As a special treat for our Geopark Guesthouse guests, when you **book a sole-night stay between Feb 2th and Mar 15th 2026, you'll receive %5 discount!** 🎉
 
 
 {{< button label="Book Now" link="../en/elements" style="solid" position="center">}}
