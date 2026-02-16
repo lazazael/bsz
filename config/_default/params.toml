@@ -57,7 +57,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "Keresd a Visit Hungary Nyári Kedvezményt az Ajánlatok között! / Check out or Visit Hungary Summer Promotion 2026 on the Promotions Page!"
+content = "Keresd a Visit Hungary 2026 Kedvezményt az Ajánlatok között! / Check out or Visit Hungary Promotion 2026 on the Promotions Page!"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
