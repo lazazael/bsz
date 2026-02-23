@@ -22,6 +22,10 @@ Az Ön személyes adatai a BNPI-nél, mint adatkezelőnél maradnak. Személyes 
 
 Ha a BNPI által kezelt adatok egy része olyan számítógépeken kerül tárolásra, amelyek nem magyar joghatóság alá tartoznak, és amelyeknek az adatvédelmi jogszabályai eltérhetnek a magyar szabályoktól, ilyen esetekben biztosítjuk, hogy a tárolt adatok a tárolás helyén megfelelő védelmemmel legyenek ellátva, amelyek eleget tesznek a magyar előírásoknak.
 
+#### Adattovábbítási nyilatkozat
+
+Tudomásul veszem, hogy a Bükki Nemzeti Park Igazgatóság (3304 Eger, Sánc utca 6.) adatkezelő által a bukkiszallasok.hu felhasználói adatbázisában tárolt alábbi személyes adataim átadásra kerülnek a SimplePay Zrt., mint adatfeldolgozó részére. Az adatkezelő által továbbított adatok köre az alábbi: név, lakcím, telefonszám, e-mail cím, fizetéshez szükséges bankkártya adatok. Az adatfeldolgozó által végzett adatfeldolgozási tevékenység jellege és célja a SimplePay Adatkezelési tájékoztatóban, az alábbi linken tekinthető meg: https://simplepay.hu/adatkezelesi-tajekoztatok/
+
 #### A felhasználás céljai
 
 Eltérő kötelező jogszabályi rendelkezés hiányában az általunk gyűjtött adatokat kizárólag az Ön által kért információk biztosítására, vagy más, Ön által engedélyezett célokra fogjuk felhasználni. Amennyiben regisztrál oldalunkon, a regisztrációval egyidejűleg elfogadja honlapunk adatvédelmi szabályzatát, valamint hozzájárul ahhoz, hogy a honlappal, a társaságunkkal, termékeinkkel kapcsolatban tájékoztatást, hírlevelet, vagy DM üzenetet küldjünk az Ön részére, illetve hogy szolgáltatásaink bővítése céljából információt kérjünk Öntől, illetve felkérjük piackutatásban történő részvételre.

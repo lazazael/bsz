@@ -22,6 +22,10 @@ Your personal data will remain with BNPI as the data controller. Your personal d
 
 If part of the data processed by BNPI is stored on computers that are not under Hungarian jurisdiction and whose data protection laws may differ from Hungarian rules, in such cases we will ensure that the stored data is adequately protected at the place of storage in accordance with Hungarian regulations.
 
+#### Data Transfer Declaration
+
+I acknowledge that my personal data stored in the user database of bukkiszallasok.hu by the data controller, the Bükk National Park Directorate (3304 Eger, Sánc utca 6., Hungary), will be transferred to SimplePay Zrt. as the data processor. The scope of data transferred by the data controller is as follows: name, address, phone number, e-mail address, and credit card details required for payment. The nature and purpose of the data processing activities performed by the data processor can be viewed in the SimplePay Privacy Policy at the following link: https://simplepay.hu/adatkezelesi-tajekoztatok/
+
 #### Purposes of use
 
 Unless otherwise required by law, we will use the information we collect only to provide you with the information you request or for other purposes that you authorise. If you register on our site, by registering you agree to our website privacy policy and consent to receive information, newsletters or DM messages from us about the website, our company, our products, to request information from you to improve our services or to ask you to participate in market research.
